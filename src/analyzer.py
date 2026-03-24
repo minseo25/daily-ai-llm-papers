@@ -1,4 +1,4 @@
-"""Deep paper analysis using Claude (API or CLI) per-paper, 5-section Korean format."""
+"""Deep paper analysis using Claude (API or CLI) per-paper, 5-section English format."""
 
 import re
 import subprocess
@@ -115,9 +115,9 @@ def _build_prompt(paper: dict) -> str:
         authors_str += " et al."
 
     full_text = paper.get("full_text", "")
-    text_section = f"\n\n논문 본문:\n{full_text}" if full_text else ""
+    text_section = f"\n\nFull paper text:\n{full_text}" if full_text else ""
 
-    return f"""아래 논문을 한국어로 깊이 있게 분석해주세요.
+    return f"""Please provide an in-depth analysis of the following paper in English.
 
 Title: {paper.get('title', 'N/A')}
 Authors: {authors_str}
@@ -125,26 +125,26 @@ URL: {paper.get('url', 'N/A')}
 Track: {paper.get('track', 'N/A')}
 Abstract: {paper.get('abstract', 'N/A')}{text_section}
 
-아래 5개 항목으로 분석해주세요:
+Analyze the paper using the following 5 sections:
 
-📋 Problem Definition: 어떤 문제를 해결하려고 했는지 (2-3문장)
+📋 Problem Definition: What problem is the paper trying to solve? (2-3 sentences)
 
-📚 Background / Related Works: 관련된 작업이나 선행작업에는 뭐가 있는지 (2-3문장, 구체적 논문명 포함)
+📚 Background / Related Works: What related or prior work exists in this area? (2-3 sentences, include specific paper names)
 
-🔬 Main Methodology: 핵심 방법론 및 기여 (3-5문장, 기술적으로 정확하게)
+🔬 Main Methodology: Core methodology and contributions (3-5 sentences, technically precise)
 
-🧪 Evaluation: 어떤 setting에서 어떻게 evaluation을 했고 결과가 어땠는지 (2-3문장, 구체적 수치 포함)
+🧪 Evaluation: What setting was used for evaluation, how was it conducted, and what were the results? (2-3 sentences, include specific numbers)
 
-💡 Key Intuition & Lesson: 이 논문에서 얻을 수 있는 핵심 인사이트 및 교훈 (2-3문장)
+💡 Key Intuition & Lesson: What are the key insights and takeaways from this paper? (2-3 sentences)
 
-주의사항:
-- 반드시 한국어로 작성
-- 피상적이지 않게, 구체적인 방법론과 수치를 포함해서 작성
-- 논문의 핵심 아이디어를 정확히 전달
-- **bold** 마크다운 강조 표시를 사용하지 말 것. 강조 없이 일반 텍스트로 작성
-- "접근이 제한되어", "원문을 확인하시는 것을 권장", "발췌본에는", "권한이 차단", "도구 접근" 등의 면책 표현을 사용하지 말 것
-- 분석에 필요한 모든 정보(논문 본문, abstract, 메타데이터)는 이미 위에 제공되어 있음. 외부 도구(WebFetch, Semantic Scholar 등)를 사용할 필요 없이 제공된 텍스트만으로 분석할 것
-- --- 구분선이나 ### 마크다운 헤더를 사용하지 말 것"""
+Important notes:
+- Write entirely in English
+- Be specific — include concrete methodology details and numbers, not superficial summaries
+- Accurately convey the core ideas of the paper
+- Do not use **bold** markdown formatting. Write in plain text without emphasis
+- Do not use disclaimer phrases like "access is limited", "I recommend checking the original", "in the excerpt", "access is blocked", "tool access", etc.
+- All information needed for analysis (full paper text, abstract, metadata) is already provided above. Analyze using only the provided text without using external tools (WebFetch, Semantic Scholar, etc.)
+- Do not use --- dividers or ### markdown headers"""
 
 
 def _analyze_via_api(prompt: str) -> str:

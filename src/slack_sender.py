@@ -75,7 +75,7 @@ def send_briefing(date_str: str, papers: list[dict], analyses: list[str]):
     client = WebClient(token=config.SLACK_BOT_TOKEN)
 
     # Header message
-    lines = [f"🤖 [{date_str}] AI/LLM 논문 데일리 브리핑\n"]
+    lines = [f"🤖 [{date_str}] AI/LLM Daily Paper Briefing\n"]
     for i, p in enumerate(papers, 1):
         track = p.get("track", "Other")
         title = p.get("title", p.get("id", "Unknown"))
@@ -92,7 +92,7 @@ def send_briefing(date_str: str, papers: list[dict], analyses: list[str]):
     # Per-paper analysis messages + Figure 1
     for i, (paper, analysis) in enumerate(zip(papers, analyses)):
         if not analysis:
-            error_msg = f"⚠️ Paper {i+1} ({paper.get('title', paper['id'])}): 분석 생성 실패"
+            error_msg = f"⚠️ Paper {i+1} ({paper.get('title', paper['id'])}): analysis generation failed"
             try:
                 client.chat_postMessage(channel=config.SLACK_CHANNEL, text=error_msg)
             except SlackApiError as e:

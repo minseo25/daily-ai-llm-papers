@@ -178,19 +178,19 @@ def _classify_papers_via_cli(papers: list[dict]) -> dict:
         for p in papers
     )
 
-    prompt = f"""아래 논문들이 AI/ML 시스템 연구자에게 관련이 있는지 분류해주세요.
+    prompt = f"""Classify whether the following papers are relevant to AI/ML systems researchers.
 
-연구 트랙:
+Research tracks:
 {track_info}
 
-논문 목록:
+Paper list:
 {paper_list}
 
-각 논문에 대해:
-1. 위 5개 트랙 중 하나에 해당하는지 판단 (해당 없으면 relevant=false)
-2. 해당 트랙 이름 지정
+For each paper:
+1. Determine if it falls under one of the above tracks (if not relevant, set relevant=false)
+2. Specify the matching track name
 
-JSON만 반환 (다른 텍스트 없이):
+Return JSON only (no other text):
 {{"2603.12345": {{"relevant": true, "track": "ML Systems"}}, "2603.67890": {{"relevant": false, "track": ""}}}}"""
 
     try:

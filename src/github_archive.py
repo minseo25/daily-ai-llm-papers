@@ -29,13 +29,13 @@ def save_daily_markdown(
 
     filepath = os.path.join(dir_path, filename)
     with open(filepath, "w", encoding="utf-8") as f:
-        f.write(f"# 📚 AI/LLM 논문 데일리 브리핑 - {date.isoformat()}\n\n")
-        f.write(f"> 자동 생성 | 5개 트랙 기반 상위 2편 분석\n\n")
+        f.write(f"# 📚 AI/LLM Daily Paper Briefing - {date.isoformat()}\n\n")
+        f.write(f"> Auto-generated | Top 2 papers analyzed across 5 tracks\n\n")
 
         # Paper list table
-        f.write("## 📋 논문 목록\n\n")
-        f.write("| # | 제목 | 트랙 | 소스 | 링크 |\n")
-        f.write("|---|------|------|------|------|\n")
+        f.write("## 📋 Paper List\n\n")
+        f.write("| # | Title | Track | Source | Link |\n")
+        f.write("|---|-------|-------|--------|------|\n")
         for i, p in enumerate(papers, 1):
             title = md_escape(p.get("title", p.get("id", "")))
             track = p.get("track", "Other")
@@ -44,17 +44,17 @@ def save_daily_markdown(
             f.write(f"| {i} | {title} | {track} | {source} | [arXiv]({url}) |\n")
 
         # Detailed analyses
-        f.write("\n## 📝 상세 분석\n\n")
+        f.write("\n## 📝 Detailed Analysis\n\n")
         for i, (paper, analysis) in enumerate(zip(papers, analyses)):
             title = paper.get("title", paper.get("id", ""))
             track = paper.get("track", "Other")
             url = paper.get("url", "")
             f.write(f"### {i+1}. {title}\n\n")
-            f.write(f"**트랙**: {track} | **링크**: [arXiv]({url})\n\n")
+            f.write(f"**Track**: {track} | **Link**: [arXiv]({url})\n\n")
             if analysis:
                 f.write(f"{analysis}\n\n")
             else:
-                f.write("_분석 생성 실패_\n\n")
+                f.write("_Analysis generation failed_\n\n")
 
     return filepath
 
@@ -99,15 +99,15 @@ def rebuild_readme(archive_db: ArchiveDB):
         f.write(marker + "\n\n")
 
         # Recent papers by track
-        f.write("## 📊 최근 논문 (트랙별)\n\n")
+        f.write("## 📊 Recent Papers (by Track)\n\n")
         track_order = [t["name"] for t in config.TRACKS]
         for track_name in track_order:
             papers = categorized.get(track_name, [])
             if not papers:
                 continue
             f.write(f"### {track_name}\n\n")
-            f.write("| 날짜 | 제목 | 링크 |\n")
-            f.write("|------|------|------|\n")
+            f.write("| Date | Title | Link |\n")
+            f.write("|------|-------|------|\n")
             for info in papers[:20]:  # Last 20 per track
                 date = info.get("date_briefed", "")
                 title = md_escape(info.get("title", info.get("id", "")))
@@ -116,7 +116,7 @@ def rebuild_readme(archive_db: ArchiveDB):
             f.write("\n")
 
         # Archive
-        f.write("## 📚 브리핑 아카이브\n\n")
+        f.write("## 📚 Briefing Archive\n\n")
         for date_str, rel_path in archive_entries:
             f.write(f"- [{date_str}](./{rel_path})\n")
 
