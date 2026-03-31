@@ -102,5 +102,19 @@
     "org": "alibaba",
     "score": 28.0,
     "date": "2026-03-31"
+  },
+  "2603.28696": {
+    "title": "AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "microsoft",
+    "score": 23.0,
+    "date": "2026-04-01"
+  },
+  "2603.28342": {
+    "title": "Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-04-01"
   }
 }
