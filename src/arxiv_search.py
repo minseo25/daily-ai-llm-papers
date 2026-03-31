@@ -6,6 +6,7 @@ import re
 import shutil
 import subprocess
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -39,13 +40,23 @@ def search_arxiv(query: str, max_results: int = 30, days_back: int = None) -> li
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=days_back)
     papers = []
 
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": "DailyLLMBriefing/2.0"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            tree = ET.parse(resp)
-    except Exception as e:
-        print(f"  [WARN] arXiv query failed: {e}")
-        return []
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "DailyLLMBriefing/2.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                tree = ET.parse(resp)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < 2:
+                wait = 10 * (attempt + 1)
+                print(f"  [WARN] arXiv rate limited, retrying in {wait}s...")
+                time.sleep(wait)
+                continue
+            print(f"  [WARN] arXiv query failed: {e}")
+            return []
+        except Exception as e:
+            print(f"  [WARN] arXiv query failed: {e}")
+            return []
 
     root = tree.getroot()
     for entry in root.findall("atom:entry", ARXIV_NS):
@@ -263,7 +274,7 @@ def collect_fresh_papers(fresh_db, archive_db) -> list[dict]:
                 continue
             if p["id"] not in all_papers:
                 all_papers[p["id"]] = p
-        time.sleep(3)  # arXiv rate limiting
+        time.sleep(5)  # arXiv rate limiting
 
     # Classify org papers via Claude CLI (track relevance + interest)
     org_in_pool = [p for p in all_papers.values() if p.get("source") == "org_search"]

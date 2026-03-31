@@ -3,6 +3,8 @@
 import re
 import subprocess
 import shutil
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -22,13 +24,23 @@ def fetch_paper_metadata(arxiv_id: str) -> dict:
     clean_id = re.sub(r"v\d+$", "", arxiv_id)
     url = f"http://export.arxiv.org/api/query?id_list={clean_id}"
 
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": "DailyLLMBriefing/2.0"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            tree = ET.parse(resp)
-    except Exception as e:
-        print(f"  [WARN] Could not fetch metadata for {arxiv_id}: {e}")
-        return {}
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "DailyLLMBriefing/2.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                tree = ET.parse(resp)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < 2:
+                wait = 10 * (attempt + 1)
+                print(f"  [WARN] arXiv rate limited, retrying in {wait}s...")
+                time.sleep(wait)
+                continue
+            print(f"  [WARN] Could not fetch metadata for {arxiv_id}: {e}")
+            return {}
+        except Exception as e:
+            print(f"  [WARN] Could not fetch metadata for {arxiv_id}: {e}")
+            return {}
 
     root = tree.getroot()
     entry = root.find("atom:entry", ARXIV_NS)
@@ -56,14 +68,24 @@ def fetch_paper_html(arxiv_id: str) -> dict:
     url = f"https://arxiv.org/html/{clean_id}"
 
     headers = {"User-Agent": "DailyLLMBriefing/2.0"}
-    try:
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            html = resp.read().decode("utf-8")
-            final_url = resp.url  # May redirect (e.g., to versioned URL)
-    except Exception as e:
-        print(f"  [WARN] Could not fetch HTML for {arxiv_id}: {e}")
-        return {"text": "", "figure1_url": ""}
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                html = resp.read().decode("utf-8")
+                final_url = resp.url  # May redirect (e.g., to versioned URL)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < 2:
+                wait = 10 * (attempt + 1)
+                print(f"  [WARN] arXiv rate limited, retrying in {wait}s...")
+                time.sleep(wait)
+                continue
+            print(f"  [WARN] Could not fetch HTML for {arxiv_id}: {e}")
+            return {"text": "", "figure1_url": ""}
+        except Exception as e:
+            print(f"  [WARN] Could not fetch HTML for {arxiv_id}: {e}")
+            return {"text": "", "figure1_url": ""}
 
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(html, "html.parser")

@@ -36,7 +36,7 @@ def _select_track_paper(
     tracks = config.TRACKS
     # Try all tracks (starting from track_index, wrapping around)
     for offset in range(len(tracks)):
-        idx = (track_index + offset) % 5
+        idx = (track_index + offset) % len(tracks)
         if idx in tried_tracks:
             continue
 
@@ -138,7 +138,7 @@ def select_daily_papers(
                 break
         else:
             # Try more track papers
-            next_idx = (track_index + len(tried_tracks)) % 5
+            next_idx = (track_index + len(tried_tracks)) % len(config.TRACKS)
             fallback = _select_track_paper(next_idx, archive_db, track_pool, tried_tracks)
             if fallback and fallback["id"] not in selected_ids:
                 selected.append(fallback)
