@@ -63,5 +63,10 @@
     "title": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
     "track": "LLM Post-training",
     "date_briefed": "2026-04-01"
+  },
+  "2508.10874": {
+    "title": "[Pool] 2508.10874",
+    "track": "RL for LLMs / Reasoning",
+    "date_briefed": "2026-04-02"
   }
 }

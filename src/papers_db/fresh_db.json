@@ -116,5 +116,19 @@
     "org": "",
     "score": 14.0,
     "date": "2026-04-01"
+  },
+  "2603.19835": {
+    "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
+    "track": "RL for LLMs / Reasoning",
+    "org": "alibaba",
+    "score": 70.0,
+    "date": "2026-04-02"
+  },
+  "2603.29620": {
+    "title": "Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis",
+    "track": "Agents",
+    "org": "tencent",
+    "score": 53.0,
+    "date": "2026-04-02"
   }
 }
