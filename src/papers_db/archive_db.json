@@ -73,5 +73,10 @@
     "title": "Gender Dynamics and Homophily in a Social Network of LLM Agents",
     "track": "Agents",
     "date_briefed": "2026-04-03"
+  },
+  "2502.11089": {
+    "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+    "track": "Efficient LLM / Inference / Long Context",
+    "date_briefed": "2026-04-04"
   }
 }

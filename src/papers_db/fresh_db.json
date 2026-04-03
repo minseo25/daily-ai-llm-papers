@@ -144,5 +144,19 @@
     "org": "",
     "score": 12.0,
     "date": "2026-04-03"
+  },
+  "2604.01787": {
+    "title": "DEFT: Distribution-guided Efficient Fine-Tuning for Human Alignment",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-04-04"
+  },
+  "2604.01658": {
+    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+    "track": "Agents",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-04"
   }
 }
