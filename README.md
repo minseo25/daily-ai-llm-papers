@@ -184,8 +184,15 @@ crontab -e
 | 2026-04-04 | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | [arXiv](https://arxiv.org/abs/2502.11089) |
 | 2026-03-29 | [Pool] 2501.12948 | [arXiv](https://arxiv.org/abs/2501.12948) |
 
+### Diffusion Language Models
+
+| 날짜 | 제목 | 링크 |
+|------|------|------|
+| 2026-04-05 | Dream 7B: Diffusion Large Language Models | [arXiv](https://arxiv.org/abs/2508.15487) |
+
 ## 📚 브리핑 아카이브
 
+- [2026-04-05](./src/2026/04/2026-04-05.md)
 - [2026-04-04](./src/2026/04/2026-04-04.md)
 - [2026-04-03](./src/2026/04/2026-04-03.md)
 - [2026-04-02](./src/2026/04/2026-04-02.md)
