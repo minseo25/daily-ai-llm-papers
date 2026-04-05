@@ -172,5 +172,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-05"
+  },
+  "2604.02288": {
+    "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-04-06"
+  },
+  "2603.22651": {
+    "title": "Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies",
+    "track": "Agents",
+    "org": "",
+    "score": 7.0,
+    "date": "2026-04-06"
   }
 }
