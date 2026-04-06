@@ -157,6 +157,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-04-07 | [Pool] 2502.15652 | [arXiv](https://arxiv.org/abs/2502.15652) |
 | 2026-04-01 | From System 1 to System 2: A Survey of Reasoning Large Language Models | [arXiv](https://arxiv.org/abs/2502.17419) |
 | 2026-03-30 | [Pool] 2503.06072 | [arXiv](https://arxiv.org/abs/2503.06072) |
 | 2026-03-26 | [Pool] 2502.21321 | [arXiv](https://arxiv.org/abs/2502.21321) |
@@ -193,6 +194,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-07](./src/2026/04/2026-04-07.md)
 - [2026-04-06](./src/2026/04/2026-04-06.md)
 - [2026-04-05](./src/2026/04/2026-04-05.md)
 - [2026-04-04](./src/2026/04/2026-04-04.md)

@@ -186,5 +186,19 @@
     "org": "",
     "score": 7.0,
     "date": "2026-04-06"
+  },
+  "2604.02766": {
+    "title": "Random Is Hard to Beat: Active Selection in online DPO with Modern LLMs",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-04-07"
+  },
+  "2604.03044": {
+    "title": "JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-07"
   }
 }
