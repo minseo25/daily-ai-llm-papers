@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-03-31T08:00:23.029778",
+  "last_crawled": "2026-04-08T08:00:23.098826",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -1154,6 +1154,14 @@
     {
       "arxiv_id": "2408.13915",
       "source_repo": "icip-cas/awesome-auto-alignment"
+    },
+    {
+      "arxiv_id": "2504.13125",
+      "source_repo": "mbzuai-oryx/Awesome-LLM-Post-training"
+    },
+    {
+      "arxiv_id": "2512.03667",
+      "source_repo": "mbzuai-oryx/Awesome-LLM-Post-training"
     }
   ],
   "RL for LLMs / Reasoning": [
@@ -5974,6 +5982,10 @@
     {
       "arxiv_id": "2603.21597",
       "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2603.23509",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
     }
   ],
   "Efficient LLM / Inference / Long Context": [
@@ -9339,6 +9351,82 @@
     },
     {
       "arxiv_id": "2603.20422",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.01569",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.02155",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.02317",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.02093",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.01881",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.03414",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.01007",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.01302",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.04921",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.29252",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2602.13191",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.29023",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.28458",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.28610",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.25926",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.25340",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.22910",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.23911",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.03260",
       "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
     }
   ],
