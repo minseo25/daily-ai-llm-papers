@@ -174,6 +174,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-04-09 | [Pool] 2602.01848 | [arXiv](https://arxiv.org/abs/2602.01848) |
 | 2026-04-03 | Gender Dynamics and Homophily in a Social Network of LLM Agents | [arXiv](https://arxiv.org/abs/2602.02606) |
 | 2026-03-28 | AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions | [arXiv](https://arxiv.org/abs/2602.06008) |
 | 2026-03-24 | DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching | [arXiv](https://arxiv.org/abs/2602.06039) |
@@ -195,6 +196,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-09](./src/2026/04/2026-04-09.md)
 - [2026-04-08](./src/2026/04/2026-04-08.md)
 - [2026-04-07](./src/2026/04/2026-04-07.md)
 - [2026-04-06](./src/2026/04/2026-04-06.md)

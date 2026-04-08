@@ -214,5 +214,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-08"
+  },
+  "2604.06036": {
+    "title": "CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics",
+    "track": "ML Systems",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-04-09"
+  },
+  "2604.05681": {
+    "title": "LUDOBENCH: Evaluating LLM Behavioural Decision-Making Through Spot-Based Board Game Scenarios in Ludo",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-09"
   }
 }
