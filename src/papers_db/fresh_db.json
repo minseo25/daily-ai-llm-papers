@@ -228,5 +228,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-09"
+  },
+  "2604.07007": {
+    "title": "AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-10"
+  },
+  "2604.07028": {
+    "title": "Strategic Persuasion with Trait-Conditioned Multi-Agent Systems for Iterative Legal Argumentation",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-10"
   }
 }
