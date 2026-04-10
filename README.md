@@ -147,6 +147,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-04-11 | [Pool] 2412.19437 | [arXiv](https://arxiv.org/abs/2412.19437) |
 | 2026-04-06 | [Pool] 2411.14458 | [arXiv](https://arxiv.org/abs/2411.14458) |
 | 2026-03-31 | Hydraulis: Balancing Large Transformer Model Training via Co-designing Parallel Strategies and Data Assignment | [arXiv](https://arxiv.org/abs/2412.07894) |
 | 2026-03-30 | [Pool] 2410.21680 | [arXiv](https://arxiv.org/abs/2410.21680) |
@@ -193,10 +194,12 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-04-11 | [Pool] 2509.24007 | [arXiv](https://arxiv.org/abs/2509.24007) |
 | 2026-04-05 | Dream 7B: Diffusion Large Language Models | [arXiv](https://arxiv.org/abs/2508.15487) |
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-11](./src/2026/04/2026-04-11.md)
 - [2026-04-10](./src/2026/04/2026-04-10.md)
 - [2026-04-09](./src/2026/04/2026-04-09.md)
 - [2026-04-08](./src/2026/04/2026-04-08.md)
