@@ -242,5 +242,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-10"
+  },
+  "2604.07927": {
+    "title": "EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools",
+    "track": "Agents",
+    "org": "",
+    "score": 15.0,
+    "date": "2026-04-12"
+  },
+  "2604.08213": {
+    "title": "EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-12"
   }
 }
