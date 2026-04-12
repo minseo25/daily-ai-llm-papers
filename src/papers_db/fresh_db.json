@@ -256,5 +256,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-04-12"
+  },
+  "2604.08065": {
+    "title": "Multimodal Latent Reasoning via Predictive Embeddings",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-13"
+  },
+  "2604.08465": {
+    "title": "From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-04-13"
   }
 }
