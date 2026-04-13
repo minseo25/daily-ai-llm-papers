@@ -169,6 +169,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-04-14 | [Pool] 2508.15763 | [arXiv](https://arxiv.org/abs/2508.15763) |
 | 2026-04-08 | [Pool] 2504.16084 | [arXiv](https://arxiv.org/abs/2504.16084) |
 | 2026-04-02 | [Pool] 2508.10874 | [arXiv](https://arxiv.org/abs/2508.10874) |
 | 2026-03-27 | A Survey of Reinforcement Learning for Large Reasoning Models | [arXiv](https://arxiv.org/abs/2509.08827) |
@@ -201,6 +202,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-14](./src/2026/04/2026-04-14.md)
 - [2026-04-13](./src/2026/04/2026-04-13.md)
 - [2026-04-12](./src/2026/04/2026-04-12.md)
 - [2026-04-11](./src/2026/04/2026-04-11.md)

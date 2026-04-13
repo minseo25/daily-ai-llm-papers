@@ -270,5 +270,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-04-13"
+  },
+  "2604.08865": {
+    "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-14"
+  },
+  "2604.03143": {
+    "title": "TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-04-14"
   }
 }
