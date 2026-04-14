@@ -284,5 +284,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-04-14"
+  },
+  "2604.10504": {
+    "title": "CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-04-15"
+  },
+  "2604.09722": {
+    "title": "ConfigSpec: Profiling-Based Configuration Selection for Distributed Edge--Cloud Speculative LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-15"
   }
 }
