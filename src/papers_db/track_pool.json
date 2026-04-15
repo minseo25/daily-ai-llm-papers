@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-04-08T08:00:23.098826",
+  "last_crawled": "2026-04-16T08:00:24.062501",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -9427,6 +9427,34 @@
     },
     {
       "arxiv_id": "2604.03260",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.11462",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.10539",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.09852",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.03143",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.03679",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.06169",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.05012",
       "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
     }
   ],

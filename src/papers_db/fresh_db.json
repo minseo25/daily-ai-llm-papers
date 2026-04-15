@@ -298,5 +298,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-15"
+  },
+  "2604.12617": {
+    "title": "SOAR: Self-Correction for Optimal Alignment and Refinement in Diffusion Models",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-16"
+  },
+  "2604.09731": {
+    "title": "SMART: When is it Actually Worth Expanding a Speculative Tree?",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-16"
   }
 }
