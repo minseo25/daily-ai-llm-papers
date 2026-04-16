@@ -312,5 +312,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-04-16"
+  },
+  "2604.12374": {
+    "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-17"
+  },
+  "2604.13828": {
+    "title": "MUSE: Multi-Domain Chinese User Simulation via Self-Evolving Profiles and Rubric-Guided Alignment",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-17"
   }
 }
