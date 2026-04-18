@@ -340,5 +340,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-04-18"
+  },
+  "2604.14853": {
+    "title": "Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization",
+    "track": "RL for LLMs / Reasoning",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-19"
+  },
+  "2604.15034": {
+    "title": "Autogenesis: A Self-Evolving Agent Protocol",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-19"
   }
 }
