@@ -354,5 +354,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-19"
+  },
+  "2604.11943": {
+    "title": "ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-20"
+  },
+  "2604.12171": {
+    "title": "PipeLive: Efficient Live In-place Pipeline Parallelism Reconfiguration for Dynamic LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-04-20"
   }
 }
