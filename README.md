@@ -181,6 +181,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-04-21 | [Pool] 2602.05407 | [arXiv](https://arxiv.org/abs/2602.05407) |
 | 2026-04-15 | [Pool] 2602.01797 | [arXiv](https://arxiv.org/abs/2602.01797) |
 | 2026-04-09 | [Pool] 2602.01848 | [arXiv](https://arxiv.org/abs/2602.01848) |
 | 2026-04-03 | Gender Dynamics and Homophily in a Social Network of LLM Agents | [arXiv](https://arxiv.org/abs/2602.02606) |
@@ -208,6 +209,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-21](./src/2026/04/2026-04-21.md)
 - [2026-04-20](./src/2026/04/2026-04-20.md)
 - [2026-04-19](./src/2026/04/2026-04-19.md)
 - [2026-04-18](./src/2026/04/2026-04-18.md)

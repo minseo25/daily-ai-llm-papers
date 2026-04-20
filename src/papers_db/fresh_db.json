@@ -368,5 +368,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-04-20"
+  },
+  "2604.15800": {
+    "title": "From Intention to Text: AI-Supported Goal Setting in Academic Writing",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-04-21"
+  },
+  "2604.15464": {
+    "title": "Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-21"
   }
 }
