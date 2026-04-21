@@ -194,6 +194,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-04-22 | [Pool] 2503.11132 | [arXiv](https://arxiv.org/abs/2503.11132) |
 | 2026-04-16 | [Pool] 2502.07864 | [arXiv](https://arxiv.org/abs/2502.07864) |
 | 2026-04-10 | [Pool] 2502.14837 | [arXiv](https://arxiv.org/abs/2502.14837) |
 | 2026-04-04 | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | [arXiv](https://arxiv.org/abs/2502.11089) |
@@ -209,6 +210,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-22](./src/2026/04/2026-04-22.md)
 - [2026-04-21](./src/2026/04/2026-04-21.md)
 - [2026-04-20](./src/2026/04/2026-04-20.md)
 - [2026-04-19](./src/2026/04/2026-04-19.md)

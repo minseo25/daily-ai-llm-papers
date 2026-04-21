@@ -382,5 +382,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-21"
+  },
+  "2604.18529": {
+    "title": "HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing",
+    "track": "ML Systems",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-04-22"
+  },
+  "2604.17774": {
+    "title": "Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-22"
   }
 }
