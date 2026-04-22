@@ -396,5 +396,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-22"
+  },
+  "2604.19540": {
+    "title": "Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-23"
+  },
+  "2604.19638": {
+    "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-23"
   }
 }
