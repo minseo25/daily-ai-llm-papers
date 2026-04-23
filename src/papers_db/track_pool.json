@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-04-16T08:00:24.062501",
+  "last_crawled": "2026-04-24T08:00:23.739375",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -696,6 +696,18 @@
     {
       "arxiv_id": "2504.07891",
       "source_repo": "PDZZXL/Awesome-LLM-Serving"
+    },
+    {
+      "arxiv_id": "2603.18016",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2604.06664",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2604.06566",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
     }
   ],
   "LLM Post-training": [
@@ -5986,6 +5998,34 @@
     {
       "arxiv_id": "2603.23509",
       "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2602.17607",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2604.09549",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2604.01658",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2504.16918",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2604.14572",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2604.08523",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2505.14996",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
     }
   ],
   "Efficient LLM / Inference / Long Context": [
@@ -9456,6 +9496,14 @@
     {
       "arxiv_id": "2604.05012",
       "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2603.28845",
+      "source_repo": "xlite-dev/Awesome-LLM-Inference"
+    },
+    {
+      "arxiv_id": "2603.18016",
+      "source_repo": "xlite-dev/Awesome-LLM-Inference"
     }
   ],
   "Diffusion Language Models": [

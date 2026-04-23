@@ -1,38 +1,4 @@
 {
-  "2603.14371": {
-    "title": "OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism",
-    "track": "ML Systems",
-    "score": 14.0,
-    "date": "2026-03-24"
-  },
-  "2603.22212": {
-    "title": "Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models",
-    "track": "LLM Post-training",
-    "org": "alibaba",
-    "score": 70.0,
-    "date": "2026-03-24"
-  },
-  "2603.21872": {
-    "title": "Manifold-Aware Exploration for Reinforcement Learning in Video Generation",
-    "track": "LLM Post-training",
-    "org": "tencent",
-    "score": 46.0,
-    "date": "2026-03-24"
-  },
-  "2603.22117": {
-    "title": "On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation",
-    "track": "RL for LLMs / Reasoning",
-    "org": "alibaba",
-    "score": 31.0,
-    "date": "2026-03-24"
-  },
-  "2603.21383": {
-    "title": "PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost",
-    "track": "LLM Post-training",
-    "org": "nvidia",
-    "score": 27.0,
-    "date": "2026-03-24"
-  },
   "2603.22228": {
     "title": "SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation",
     "track": "LLM Post-training",
@@ -410,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-23"
+  },
+  "2604.18788": {
+    "title": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-24"
+  },
+  "2604.18170": {
+    "title": "Copy-as-Decode: Grammar-Constrained Parallel Prefill for LLM Editing",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-24"
   }
 }
