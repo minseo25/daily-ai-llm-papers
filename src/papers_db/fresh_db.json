@@ -1,18 +1,4 @@
 {
-  "2603.22528": {
-    "title": "GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs",
-    "track": "Agents",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-03-26"
-  },
-  "2603.13605": {
-    "title": "Orla: A Library for Serving LLM-Based Multi-Agent Systems",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-03-26"
-  },
   "2603.24472": {
     "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-25"
+  },
+  "2604.21231": {
+    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-26"
+  },
+  "2604.17789": {
+    "title": "DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-04-26"
   }
 }
