@@ -1,18 +1,4 @@
 {
-  "2603.24472": {
-    "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
-    "track": "LLM Post-training",
-    "org": "microsoft",
-    "score": 46.0,
-    "date": "2026-03-27"
-  },
-  "2603.22446": {
-    "title": "Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs",
-    "track": "RL for LLMs / Reasoning",
-    "org": "alibaba",
-    "score": 25.0,
-    "date": "2026-03-27"
-  },
   "2603.22918": {
     "title": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-26"
+  },
+  "2604.17695": {
+    "title": "MoE-nD: Per-Layer Mixture-of-Experts Routing for Multi-Axis KV Cache Compression",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-04-27"
+  },
+  "2604.21725": {
+    "title": "AEL: Agent Evolving Learning for Open-Ended Environments",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-04-27"
   }
 }
