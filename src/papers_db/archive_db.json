@@ -203,5 +203,10 @@
     "title": "[Pool] 2501.14743",
     "track": "Efficient LLM / Inference / Long Context",
     "date_briefed": "2026-04-28"
+  },
+  "2512.15745": {
+    "title": "[Pool] 2512.15745",
+    "track": "Diffusion Language Models",
+    "date_briefed": "2026-04-29"
   }
 }
