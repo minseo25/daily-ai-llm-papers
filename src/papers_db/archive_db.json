@@ -208,5 +208,15 @@
     "title": "[Pool] 2512.15745",
     "track": "Diffusion Language Models",
     "date_briefed": "2026-04-29"
+  },
+  "2503.20313": {
+    "title": "[Pool] 2503.20313",
+    "track": "ML Systems",
+    "date_briefed": "2026-04-30"
+  },
+  "2412.10400": {
+    "title": "[Pool] 2412.10400",
+    "track": "LLM Post-training",
+    "date_briefed": "2026-04-30"
   }
 }
