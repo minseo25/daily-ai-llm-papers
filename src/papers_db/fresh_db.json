@@ -1,18 +1,4 @@
 {
-  "2603.23994": {
-    "title": "Understanding the Challenges in Iterative Generative Optimization with LLMs",
-    "track": "Agents",
-    "org": "google deepmind",
-    "score": 43.0,
-    "date": "2026-03-31"
-  },
-  "2603.24943": {
-    "title": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol",
-    "track": "Agents",
-    "org": "alibaba",
-    "score": 28.0,
-    "date": "2026-03-31"
-  },
   "2603.28696": {
     "title": "AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding",
     "track": "Efficient LLM / Inference / Long Context",
