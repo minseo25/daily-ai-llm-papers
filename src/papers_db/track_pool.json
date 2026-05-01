@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-04-24T08:00:23.739375",
+  "last_crawled": "2026-05-02T08:00:35.854878",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -6026,6 +6026,18 @@
     {
       "arxiv_id": "2505.14996",
       "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2512.04695",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2512.04388",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2603.01213",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
     }
   ],
   "Efficient LLM / Inference / Long Context": [
@@ -9504,6 +9516,10 @@
     {
       "arxiv_id": "2603.18016",
       "source_repo": "xlite-dev/Awesome-LLM-Inference"
+    },
+    {
+      "arxiv_id": "2507.02591",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
     }
   ],
   "Diffusion Language Models": [

@@ -1,18 +1,4 @@
 {
-  "2603.28696": {
-    "title": "AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding",
-    "track": "Efficient LLM / Inference / Long Context",
-    "org": "microsoft",
-    "score": 23.0,
-    "date": "2026-04-01"
-  },
-  "2603.28342": {
-    "title": "Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 14.0,
-    "date": "2026-04-01"
-  },
   "2603.19835": {
     "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
     "track": "RL for LLMs / Reasoning",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-04-29"
+  },
+  "2604.26275": {
+    "title": "Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering",
+    "track": "Agents",
+    "org": "",
+    "score": 28.0,
+    "date": "2026-05-02"
+  },
+  "2604.28123": {
+    "title": "PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-05-02"
   }
 }
