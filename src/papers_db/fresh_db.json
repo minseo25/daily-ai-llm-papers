@@ -1,18 +1,4 @@
 {
-  "2603.19835": {
-    "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
-    "track": "RL for LLMs / Reasoning",
-    "org": "alibaba",
-    "score": 70.0,
-    "date": "2026-04-02"
-  },
-  "2603.29620": {
-    "title": "Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis",
-    "track": "Agents",
-    "org": "tencent",
-    "score": 53.0,
-    "date": "2026-04-02"
-  },
   "2604.01220": {
     "title": "Universal YOCO for Efficient Depth Scaling",
     "track": "Efficient LLM / Inference / Long Context",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 13.0,
     "date": "2026-05-02"
+  },
+  "2604.25907": {
+    "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-05-03"
+  },
+  "2604.26837": {
+    "title": "Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-05-03"
   }
 }
