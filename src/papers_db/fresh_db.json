@@ -1,18 +1,4 @@
 {
-  "2604.01787": {
-    "title": "DEFT: Distribution-guided Efficient Fine-Tuning for Human Alignment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-04-04"
-  },
-  "2604.01658": {
-    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
-    "track": "Agents",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-04"
-  },
   "2603.26498": {
     "title": "Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language Model Inference",
     "track": "ML Systems",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-05-04"
+  },
+  "2605.00754": {
+    "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-05-05"
+  },
+  "2604.25098": {
+    "title": "Doing More With Less: Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling",
+    "track": "RL for LLMs / Reasoning",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-05-05"
   }
 }
