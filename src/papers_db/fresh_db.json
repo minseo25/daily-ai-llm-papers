@@ -1,18 +1,4 @@
 {
-  "2603.26498": {
-    "title": "Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language Model Inference",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-05"
-  },
-  "2603.26771": {
-    "title": "LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models",
-    "track": "Diffusion Language Models",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-05"
-  },
   "2604.02288": {
     "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-05-05"
+  },
+  "2605.02189": {
+    "title": "PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-05-06"
+  },
+  "2605.01280": {
+    "title": "Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-05-06"
   }
 }
