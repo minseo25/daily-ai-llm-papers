@@ -1,18 +1,4 @@
 {
-  "2604.02288": {
-    "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-04-06"
-  },
-  "2603.22651": {
-    "title": "Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies",
-    "track": "Agents",
-    "org": "",
-    "score": 7.0,
-    "date": "2026-04-06"
-  },
   "2604.02766": {
     "title": "Random Is Hard to Beat: Active Selection in online DPO with Modern LLMs",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-05-06"
+  },
+  "2605.03952": {
+    "title": "MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-05-07"
+  },
+  "2605.02960": {
+    "title": "ZeRO-Prefill: Zero Redundancy Overheads in MoE Prefill Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-05-07"
   }
 }
