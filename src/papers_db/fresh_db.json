@@ -1,18 +1,4 @@
 {
-  "2604.04750": {
-    "title": "DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-08"
-  },
-  "2604.04767": {
-    "title": "Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-08"
-  },
   "2604.06036": {
     "title": "CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics",
     "track": "ML Systems",
