@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-05-02T08:00:35.854878",
+  "last_crawled": "2026-05-10T08:00:22.731980",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -707,6 +707,118 @@
     },
     {
       "arxiv_id": "2604.06566",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2505.11432",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2504.09844",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2512.12131",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2510.18830",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2406.08334",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2502.11058",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2512.12476",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2510.26475",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2501.12162",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2510.11938",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2412.18169",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2505.24095",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.28768",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2506.02006",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.00868",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.18643",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2512.07993",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.10729",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2510.08055",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2504.10724",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2412.03594",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.00831",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.01762",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.11505",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.13594",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.05451",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.07399",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.00606",
       "source_repo": "AmberLJC/LLMSys-PaperList"
     }
   ],
@@ -3691,6 +3803,182 @@
     },
     {
       "arxiv_id": "2501.02497",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2604.19295",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2604.16529",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2604.15453",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2604.01411",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2602.21198",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2602.18998",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2602.12276",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2602.05285",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2602.01566",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2602.01381",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2602.00884",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2601.20379",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2601.13247",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2601.11252",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2512.19905",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2512.02008",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2511.17006",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2511.06209",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2511.14772",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2510.01279",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2509.24967",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2509.25140",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2509.21655",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2509.06861",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2509.04474",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2509.00195",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2508.19903",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2508.18648",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2508.18132",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2508.03333",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2507.23370",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2507.05791",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2506.22376",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2506.12721",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2506.12928",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2505.10981",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2505.00684",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2503.23803",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2502.20379",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2502.19163",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2502.12018",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2502.01618",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2501.19252",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2507.16075",
       "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
     }
   ],

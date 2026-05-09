@@ -1,18 +1,4 @@
 {
-  "2604.06036": {
-    "title": "CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics",
-    "track": "ML Systems",
-    "org": "",
-    "score": 14.0,
-    "date": "2026-04-09"
-  },
-  "2604.05681": {
-    "title": "LUDOBENCH: Evaluating LLM Behavioural Decision-Making Through Spot-Based Board Game Scenarios in Ludo",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-09"
-  },
   "2604.07007": {
     "title": "AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power",
     "track": "Agents",
@@ -376,5 +362,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-05-08"
+  },
+  "2605.05467": {
+    "title": "Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism",
+    "track": "ML Systems",
+    "org": "",
+    "score": 17.0,
+    "date": "2026-05-10"
+  },
+  "2605.06113": {
+    "title": "Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale",
+    "track": "ML Systems",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-05-10"
   }
 }
