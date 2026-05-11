@@ -376,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-05-11"
+  },
+  "2605.07353": {
+    "title": "Confidence-Aware Alignment Makes Reasoning LLMs More Reliable",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-05-12"
+  },
+  "2605.07182": {
+    "title": "Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-05-12"
   }
 }
