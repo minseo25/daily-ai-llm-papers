@@ -1,18 +1,4 @@
 {
-  "2604.08065": {
-    "title": "Multimodal Latent Reasoning via Predictive Embeddings",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-13"
-  },
-  "2604.08465": {
-    "title": "From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-04-13"
-  },
   "2604.08865": {
     "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-05-13"
+  },
+  "2605.11232": {
+    "title": "Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack",
+    "track": "ML Systems",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-05-14"
+  },
+  "2605.12227": {
+    "title": "Combining On-Policy Optimization and Distillation for Long-Context Reasoning in Large Language Models",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-05-14"
   }
 }
