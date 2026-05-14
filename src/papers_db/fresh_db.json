@@ -1,18 +1,4 @@
 {
-  "2604.08865": {
-    "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-14"
-  },
-  "2604.03143": {
-    "title": "TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-04-14"
-  },
   "2604.10504": {
     "title": "CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-05-14"
+  },
+  "2605.13734": {
+    "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-05-15"
+  },
+  "2605.11202": {
+    "title": "Continuous Discovery of Vulnerabilities in LLM Serving Systems with Fuzzing",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-05-15"
   }
 }
