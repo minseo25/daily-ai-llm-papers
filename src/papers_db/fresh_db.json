@@ -1,18 +1,4 @@
 {
-  "2604.12617": {
-    "title": "SOAR: Self-Correction for Optimal Alignment and Refinement in Diffusion Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-16"
-  },
-  "2604.09731": {
-    "title": "SMART: When is it Actually Worth Expanding a Speculative Tree?",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-16"
-  },
   "2604.12374": {
     "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-05-16"
+  },
+  "2605.14892": {
+    "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+    "track": "Agents",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-05-17"
+  },
+  "2605.14290": {
+    "title": "Web Agents Should Adopt the Plan-Then-Execute Paradigm",
+    "track": "Agents",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-05-17"
   }
 }
