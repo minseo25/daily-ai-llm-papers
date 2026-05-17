@@ -1,18 +1,4 @@
 {
-  "2604.12374": {
-    "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-17"
-  },
-  "2604.13828": {
-    "title": "MUSE: Multi-Domain Chinese User Simulation via Self-Evolving Profiles and Rubric-Guided Alignment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-17"
-  },
   "2604.14895": {
     "title": "Beyond Importance Sampling: Rejection-Gated Policy Optimization",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-05-17"
+  },
+  "2605.15051": {
+    "title": "An Interpretable Latency Model for Speculative Decoding in LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-05-18"
+  },
+  "2605.08581": {
+    "title": "PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-05-18"
   }
 }
