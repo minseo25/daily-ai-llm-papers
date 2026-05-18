@@ -1,18 +1,4 @@
 {
-  "2604.14895": {
-    "title": "Beyond Importance Sampling: Rejection-Gated Policy Optimization",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 12.0,
-    "date": "2026-04-18"
-  },
-  "2604.14951": {
-    "title": "RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-04-18"
-  },
   "2604.14853": {
     "title": "Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization",
     "track": "RL for LLMs / Reasoning",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-05-18"
+  },
+  "2605.15803": {
+    "title": "Embedding-perturbed Exploration Preference Optimization for Flow Models",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-05-19"
+  },
+  "2605.16154": {
+    "title": "Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-05-19"
   }
 }
