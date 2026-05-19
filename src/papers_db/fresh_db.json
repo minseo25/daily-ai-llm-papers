@@ -1,18 +1,4 @@
 {
-  "2604.14853": {
-    "title": "Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization",
-    "track": "RL for LLMs / Reasoning",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-19"
-  },
-  "2604.15034": {
-    "title": "Autogenesis: A Self-Evolving Agent Protocol",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-19"
-  },
   "2604.11943": {
     "title": "ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems",
     "track": "Efficient LLM / Inference / Long Context",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-05-19"
+  },
+  "2605.18721": {
+    "title": "General Preference Reinforcement Learning",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-05-20"
+  },
+  "2605.18529": {
+    "title": "AMR-SD: Asymmetric Meta-Reflective Self-Distillation for Token-Level Credit Assignment",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-05-20"
   }
 }
