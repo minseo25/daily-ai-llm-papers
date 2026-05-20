@@ -1,18 +1,4 @@
 {
-  "2604.11943": {
-    "title": "ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems",
-    "track": "Efficient LLM / Inference / Long Context",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-20"
-  },
-  "2604.12171": {
-    "title": "PipeLive: Efficient Live In-place Pipeline Parallelism Reconfiguration for Dynamic LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-04-20"
-  },
   "2604.15800": {
     "title": "From Intention to Text: AI-Supported Goal Setting in Academic Writing",
     "track": "LLM Post-training",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 12.0,
     "date": "2026-05-20"
+  },
+  "2605.17170": {
+    "title": "TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-05-21"
+  },
+  "2605.16637": {
+    "title": "HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-05-21"
   }
 }
