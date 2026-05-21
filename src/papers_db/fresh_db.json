@@ -1,18 +1,4 @@
 {
-  "2604.15800": {
-    "title": "From Intention to Text: AI-Supported Goal Setting in Academic Writing",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-21"
-  },
-  "2604.15464": {
-    "title": "Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-21"
-  },
   "2604.18529": {
     "title": "HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing",
     "track": "ML Systems",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-05-21"
+  },
+  "2605.21312": {
+    "title": "Frontier: Towards Comprehensive and Accurate LLM Inference Simulation",
+    "track": "ML Systems",
+    "org": "",
+    "score": 16.0,
+    "date": "2026-05-22"
+  },
+  "2605.21100": {
+    "title": "NanoCP: Request-Level Dynamic Context Parallelism for Data-Expert Parallel Decoding",
+    "track": "ML Systems",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-05-22"
   }
 }
