@@ -1,18 +1,4 @@
 {
-  "2604.19540": {
-    "title": "Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-23"
-  },
-  "2604.19638": {
-    "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-23"
-  },
   "2604.18788": {
     "title": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
     "track": "ML Systems",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-05-23"
+  },
+  "2605.21740": {
+    "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-05-24"
+  },
+  "2605.21470": {
+    "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-05-24"
   }
 }
