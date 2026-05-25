@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-05-18T08:00:23.262344",
+  "last_crawled": "2026-05-26T08:00:22.914771",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -4131,6 +4131,10 @@
     },
     {
       "arxiv_id": "2601.16486",
+      "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
+    },
+    {
+      "arxiv_id": "2605.17672",
       "source_repo": "ThreeSR/Awesome-Inference-Time-Scaling"
     }
   ],
@@ -11117,6 +11121,266 @@
     },
     {
       "arxiv_id": "2506.08293",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.15676",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.10518",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.09603",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.00161",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.26841",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.23994",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.11035",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.03537",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.02718",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.01622",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.21342",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.16459",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.05197",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.14531",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.14368",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.11577",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.10938",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.07933",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.07748",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.07013",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.06548",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.24416",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.11748",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.05551",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.02028",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.06832",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.13935",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.13026",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.11854",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.10218",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.09536",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.07701",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.26951",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.00666",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.12554",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.15609",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.14305",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.13043",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.09820",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.10971",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.06366",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2605.01373",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.20079",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.18995",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.18738",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.17068",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.12989",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.12056",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.10567",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.08964",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.08302",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.05250",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.02560",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.00375",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.25702",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.26771",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.18489",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.08026",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.06123",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2601.23278",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.04215",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.14001",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.24089",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2604.06627",
+      "source_repo": "VILA-Lab/Awesome-DLMs"
+    },
+    {
+      "arxiv_id": "2603.20466",
       "source_repo": "VILA-Lab/Awesome-DLMs"
     }
   ]

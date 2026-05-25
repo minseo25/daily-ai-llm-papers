@@ -1,18 +1,4 @@
 {
-  "2604.21860": {
-    "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 17.0,
-    "date": "2026-04-25"
-  },
-  "2604.21911": {
-    "title": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-25"
-  },
   "2604.21231": {
     "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
     "track": "ML Systems",
@@ -390,5 +376,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-05-25"
+  },
+  "2605.23389": {
+    "title": "AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-05-26"
+  },
+  "2605.23572": {
+    "title": "HARNESS-LM: A Three-Phase Training Recipe for Harnessing SLMs in Sponsored Search Retrieval",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-05-26"
   }
 }
