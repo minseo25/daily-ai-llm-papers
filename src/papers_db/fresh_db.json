@@ -1,18 +1,4 @@
 {
-  "2604.21231": {
-    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-26"
-  },
-  "2604.17789": {
-    "title": "DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization",
-    "track": "Efficient LLM / Inference / Long Context",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-26"
-  },
   "2604.17695": {
     "title": "MoE-nD: Per-Layer Mixture-of-Experts Routing for Multi-Axis KV Cache Compression",
     "track": "Efficient LLM / Inference / Long Context",
