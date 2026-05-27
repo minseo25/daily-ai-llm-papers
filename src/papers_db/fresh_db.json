@@ -1,18 +1,4 @@
 {
-  "2604.17695": {
-    "title": "MoE-nD: Per-Layer Mixture-of-Experts Routing for Multi-Axis KV Cache Compression",
-    "track": "Efficient LLM / Inference / Long Context",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-04-27"
-  },
-  "2604.21725": {
-    "title": "AEL: Agent Evolving Learning for Open-Ended Environments",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-04-27"
-  },
   "2604.22239": {
     "title": "Navigating Large-Scale Document Collections: MuDABench for Multi-Document Analytical QA",
     "track": "Agents",
@@ -376,5 +362,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-05-26"
+  },
+  "2605.26521": {
+    "title": "Testing Agentic Workflows with Structural Coverage Criteria",
+    "track": "Agents",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-05-28"
+  },
+  "2605.24832": {
+    "title": "Optimus: Elastic Decoding for Efficient Diffusion LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-05-28"
   }
 }
