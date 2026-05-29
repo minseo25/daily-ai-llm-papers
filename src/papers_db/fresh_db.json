@@ -1,18 +1,4 @@
 {
-  "2604.24512": {
-    "title": "Beyond the Attention Stability Boundary: Agentic Self-Synthesizing Reasoning Protocols",
-    "track": "Agents",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-04-29"
-  },
-  "2604.24114": {
-    "title": "IRIS: Interleaved Reinforcement with Incremental Staged Curriculum for Cross-Lingual Mathematical Reasoning",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-04-29"
-  },
   "2604.26275": {
     "title": "Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering",
     "track": "Agents",
