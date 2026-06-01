@@ -1,18 +1,4 @@
 {
-  "2604.26275": {
-    "title": "Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering",
-    "track": "Agents",
-    "org": "",
-    "score": 28.0,
-    "date": "2026-05-02"
-  },
-  "2604.28123": {
-    "title": "PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-05-02"
-  },
   "2604.25907": {
     "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
     "track": "LLM Post-training",
@@ -376,5 +362,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-06-01"
+  },
+  "2605.30571": {
+    "title": "Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-02"
+  },
+  "2605.31564": {
+    "title": "What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation",
+    "track": "Diffusion Language Models",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-02"
   }
 }
