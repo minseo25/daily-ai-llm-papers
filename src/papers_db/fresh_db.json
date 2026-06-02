@@ -1,18 +1,4 @@
 {
-  "2604.25907": {
-    "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-05-03"
-  },
-  "2604.26837": {
-    "title": "Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-03"
-  },
   "2604.26103": {
     "title": "AMMA: A Multi-Chiplet Memory-Centric Architecture for Low-Latency 1M Context Attention Serving",
     "track": "ML Systems",
