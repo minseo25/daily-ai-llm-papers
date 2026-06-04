@@ -1,18 +1,4 @@
 {
-  "2605.00754": {
-    "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-05-05"
-  },
-  "2604.25098": {
-    "title": "Doing More With Less: Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling",
-    "track": "RL for LLMs / Reasoning",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-05"
-  },
   "2605.02189": {
     "title": "PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers",
     "track": "ML Systems",
