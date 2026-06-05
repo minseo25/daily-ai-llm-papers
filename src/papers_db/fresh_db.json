@@ -1,18 +1,4 @@
 {
-  "2605.02189": {
-    "title": "PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-05-06"
-  },
-  "2605.01280": {
-    "title": "Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-05-06"
-  },
   "2605.03952": {
     "title": "MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents",
     "track": "LLM Post-training",
