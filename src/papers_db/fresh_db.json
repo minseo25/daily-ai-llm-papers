@@ -1,18 +1,4 @@
 {
-  "2605.03952": {
-    "title": "MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-05-07"
-  },
-  "2605.02960": {
-    "title": "ZeRO-Prefill: Zero Redundancy Overheads in MoE Prefill Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 12.0,
-    "date": "2026-05-07"
-  },
   "2605.04960": {
     "title": "EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance",
     "track": "LLM Post-training",
