@@ -1,18 +1,4 @@
 {
-  "2605.04960": {
-    "title": "EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-05-08"
-  },
-  "2605.03884": {
-    "title": "QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-08"
-  },
   "2605.05467": {
     "title": "Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism",
     "track": "ML Systems",
