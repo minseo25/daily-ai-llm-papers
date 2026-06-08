@@ -306,5 +306,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-06-04"
+  },
+  "2606.04415": {
+    "title": "FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location",
+    "track": "ML Systems",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-06-09"
+  },
+  "2606.06256": {
+    "title": "RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention",
+    "track": "ML Systems",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-06-09"
   }
 }
