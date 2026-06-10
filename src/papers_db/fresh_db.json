@@ -1,18 +1,4 @@
 {
-  "2605.05696": {
-    "title": "Irminsul: MLA-Native Position-Independent Caching for Agentic LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-05-11"
-  },
-  "2605.06375": {
-    "title": "A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-11"
-  },
   "2605.07353": {
     "title": "Confidence-Aware Alignment Makes Reasoning LLMs More Reliable",
     "track": "LLM Post-training",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-06-10"
+  },
+  "2606.06302": {
+    "title": "Tangram: Unlocking Non-Uniform KV Cache for Efficient Multi-turn LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-11"
+  },
+  "2606.02964": {
+    "title": "Multi-Segment Attention: Enabling Efficient KV-Cache Management for Faster Large Language Model Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-11"
   }
 }
