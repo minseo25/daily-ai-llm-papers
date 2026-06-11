@@ -1,18 +1,4 @@
 {
-  "2605.07353": {
-    "title": "Confidence-Aware Alignment Makes Reasoning LLMs More Reliable",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-05-12"
-  },
-  "2605.07182": {
-    "title": "Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 12.0,
-    "date": "2026-05-12"
-  },
   "2605.09735": {
     "title": "KV-RM: Regularizing KV-Cache Movement for Static-Graph LLM Serving",
     "track": "ML Systems",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-06-11"
+  },
+  "2606.11357": {
+    "title": "TileFuse: A Fused Mixed-Precision Kernel Library for Efficient Quantized LLM Inference on AMD NPUs",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-12"
+  },
+  "2606.08635": {
+    "title": "SpectrumKV: Per-Token Mixed-Precision KV Cache Transfer for Prefill-Decode Disaggregated LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-12"
   }
 }
