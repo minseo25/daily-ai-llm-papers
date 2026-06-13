@@ -1,18 +1,4 @@
 {
-  "2605.11232": {
-    "title": "Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack",
-    "track": "ML Systems",
-    "org": "",
-    "score": 14.0,
-    "date": "2026-05-14"
-  },
-  "2605.12227": {
-    "title": "Combining On-Policy Optimization and Distillation for Long-Context Reasoning in Large Language Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-05-14"
-  },
   "2605.13734": {
     "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving",
     "track": "ML Systems",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 12.0,
     "date": "2026-06-13"
+  },
+  "2606.12841": {
+    "title": "TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models",
+    "track": "Diffusion Language Models",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-06-14"
+  },
+  "2606.03770": {
+    "title": "E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-14"
   }
 }
