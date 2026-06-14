@@ -1,18 +1,4 @@
 {
-  "2605.13734": {
-    "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-05-15"
-  },
-  "2605.11202": {
-    "title": "Continuous Discovery of Vulnerabilities in LLM Serving Systems with Fuzzing",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-15"
-  },
   "2605.14312": {
     "title": "Making OpenAPI Documentation Agent-Ready: Detecting Documentation and REST Smells with a Multi-Agent LLM System",
     "track": "Agents",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-06-14"
+  },
+  "2606.11562": {
+    "title": "GraphInfer-Bench: Benchmarking LLM's Inference Capability on Graphs",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-15"
+  },
+  "2606.10829": {
+    "title": "Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-15"
   }
 }
