@@ -1,18 +1,4 @@
 {
-  "2605.14312": {
-    "title": "Making OpenAPI Documentation Agent-Ready: Detecting Documentation and REST Smells with a Multi-Agent LLM System",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-16"
-  },
-  "2605.05365": {
-    "title": "ZAYA1-8B Technical Report",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-16"
-  },
   "2605.14892": {
     "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
     "track": "Agents",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-06-15"
+  },
+  "2606.14445": {
+    "title": "tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration",
+    "track": "Agents",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-06-16"
+  },
+  "2606.14691": {
+    "title": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-06-16"
   }
 }
