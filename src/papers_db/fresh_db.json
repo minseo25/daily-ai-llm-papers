@@ -1,18 +1,4 @@
 {
-  "2605.15051": {
-    "title": "An Interpretable Latency Model for Speculative Decoding in LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-18"
-  },
-  "2605.08581": {
-    "title": "PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-18"
-  },
   "2605.15803": {
     "title": "Embedding-perturbed Exploration Preference Optimization for Flow Models",
     "track": "LLM Post-training",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-06-17"
+  },
+  "2606.18142": {
+    "title": "Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models",
+    "track": "Agents",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-18"
+  },
+  "2606.17182": {
+    "title": "Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-18"
   }
 }
