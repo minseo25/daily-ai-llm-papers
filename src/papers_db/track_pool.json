@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-06-11T08:00:30.384713",
+  "last_crawled": "2026-06-19T08:00:23.065447",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -6490,6 +6490,14 @@
     {
       "arxiv_id": "2606.07513",
       "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2606.09730",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2606.10662",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
     }
   ],
   "Efficient LLM / Inference / Long Context": [
@@ -10363,6 +10371,22 @@
     },
     {
       "arxiv_id": "2605.30519",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.13681",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.12945",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.13361",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.13106",
       "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
     }
   ],

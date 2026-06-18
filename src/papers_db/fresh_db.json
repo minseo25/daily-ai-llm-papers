@@ -1,18 +1,4 @@
 {
-  "2605.15803": {
-    "title": "Embedding-perturbed Exploration Preference Optimization for Flow Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-19"
-  },
-  "2605.16154": {
-    "title": "Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-19"
-  },
   "2605.18721": {
     "title": "General Preference Reinforcement Learning",
     "track": "LLM Post-training",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-06-18"
+  },
+  "2606.18741": {
+    "title": "ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-06-19"
+  },
+  "2606.19004": {
+    "title": "Spotlight: Synergizing Seed Exploration and Spot GPUs for DiT RL Post-Training",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-19"
   }
 }
