@@ -1,18 +1,4 @@
 {
-  "2605.17170": {
-    "title": "TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-21"
-  },
-  "2605.16637": {
-    "title": "HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-21"
-  },
   "2605.21312": {
     "title": "Frontier: Towards Comprehensive and Accurate LLM Inference Simulation",
     "track": "ML Systems",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-06-20"
+  },
+  "2606.20023": {
+    "title": "When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-21"
+  },
+  "2606.19135": {
+    "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+    "track": "Agents",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-21"
   }
 }
