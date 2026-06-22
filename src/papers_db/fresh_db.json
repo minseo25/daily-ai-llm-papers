@@ -1,18 +1,4 @@
 {
-  "2605.22720": {
-    "title": "Can AI Make Conflicts Worse? An Alignment Failure in LLM Deployment Across Conflict Contexts",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-05-23"
-  },
-  "2605.17613": {
-    "title": "VeriCache: Turning Lossy KV Cache into Lossless LLM Inference",
-    "track": "Efficient LLM / Inference / Long Context",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-05-23"
-  },
   "2605.21740": {
     "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
     "track": "Agents",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-06-22"
+  },
+  "2606.18600": {
+    "title": "ShuntServe: Cost-Efficient LLM Serving on Heterogeneous Spot GPU Clusters",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-23"
+  },
+  "2606.16135": {
+    "title": "SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-23"
   }
 }
