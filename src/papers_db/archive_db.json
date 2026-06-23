@@ -538,5 +538,10 @@
     "title": "[Pool] 2510.20171",
     "track": "ML Systems",
     "date_briefed": "2026-06-23"
+  },
+  "2502.04327": {
+    "title": "[Pool] 2502.04327",
+    "track": "LLM Post-training",
+    "date_briefed": "2026-06-24"
   }
 }

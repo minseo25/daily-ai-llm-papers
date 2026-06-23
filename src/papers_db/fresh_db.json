@@ -1,18 +1,4 @@
 {
-  "2605.21740": {
-    "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-24"
-  },
-  "2605.21470": {
-    "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-05-24"
-  },
   "2605.13165": {
     "title": "STOP: Structured On-Policy Pruning of Long-Form Reasoning in Low-Data Regimes",
     "track": "LLM Post-training",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-06-23"
+  },
+  "2606.22541": {
+    "title": "ASAP: A Disaggregated and Asynchronous Inference System for MoE Prefill",
+    "track": "ML Systems",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-06-24"
+  },
+  "2606.23521": {
+    "title": "Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference",
+    "track": "ML Systems",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-06-24"
   }
 }
