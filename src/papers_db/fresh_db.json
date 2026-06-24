@@ -1,18 +1,4 @@
 {
-  "2605.13165": {
-    "title": "STOP: Structured On-Policy Pruning of Long-Form Reasoning in Low-Data Regimes",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-25"
-  },
-  "2605.22759": {
-    "title": "Towards a General Intelligence and Interface for Wearable Health Data",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-25"
-  },
   "2605.23389": {
     "title": "AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System",
     "track": "ML Systems",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-06-24"
+  },
+  "2606.24331": {
+    "title": "Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 19.0,
+    "date": "2026-06-25"
+  },
+  "2606.24510": {
+    "title": "A specialized reasoning large language model for accelerating rare disease diagnosis: a randomized AI physician assistance trial",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-06-25"
   }
 }
