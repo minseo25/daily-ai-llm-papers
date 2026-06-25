@@ -1,18 +1,4 @@
 {
-  "2605.23389": {
-    "title": "AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-26"
-  },
-  "2605.23572": {
-    "title": "HARNESS-LM: A Three-Phase Training Recipe for Harnessing SLMs in Sponsored Search Retrieval",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-05-26"
-  },
   "2605.26521": {
     "title": "Testing Agentic Workflows with Structural Coverage Criteria",
     "track": "Agents",
@@ -320,5 +306,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-06-25"
+  },
+  "2606.24506": {
+    "title": "CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-26"
+  },
+  "2606.21633": {
+    "title": "HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-26"
   }
 }
