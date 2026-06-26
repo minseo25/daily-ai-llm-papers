@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-06-19T08:00:23.065447",
+  "last_crawled": "2026-06-27T08:00:23.071486",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -963,6 +963,230 @@
     },
     {
       "arxiv_id": "2605.13521",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.31463",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.12237",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2510.21755",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2604.27089",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2504.19925",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.16665",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.06932",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.15565",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2510.19225",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2412.15411",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.06520",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.01518",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.24096",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2604.13327",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.04426",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2604.15272",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.04357",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.11589",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.22076",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.03251",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.20661",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.13358",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2504.16214",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.11603",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2509.04827",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.06914",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2508.18572",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2604.16682",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.13692",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2606.06453",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.05109",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.15077",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.21470",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.17172",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.12675",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.02170",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.24168",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2504.12984",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.04805",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.11277",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.07776",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2511.04768",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.27918",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2606.15319",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.02958",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.12271",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.20273",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.07568",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2602.18397",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.24517",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.00227",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2601.16238",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.19173",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2605.23215",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2603.02376",
+      "source_repo": "AmberLJC/LLMSys-PaperList"
+    },
+    {
+      "arxiv_id": "2604.18616",
       "source_repo": "AmberLJC/LLMSys-PaperList"
     }
   ],
@@ -10388,6 +10612,10 @@
     {
       "arxiv_id": "2606.13106",
       "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2604.07622",
+      "source_repo": "xlite-dev/Awesome-LLM-Inference"
     }
   ],
   "Diffusion Language Models": [
