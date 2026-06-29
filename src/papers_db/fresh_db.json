@@ -334,5 +334,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-06-29"
+  },
+  "2606.27771": {
+    "title": "NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-30"
+  },
+  "2606.28061": {
+    "title": "ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-06-30"
   }
 }
