@@ -222,6 +222,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-02 | [Pool] 2601.19793 | [arXiv](https://arxiv.org/abs/2601.19793) |
 | 2026-06-26 | [Pool] 2601.21469 | [arXiv](https://arxiv.org/abs/2601.21469) |
 | 2026-06-20 | [Pool] 2601.21742 | [arXiv](https://arxiv.org/abs/2601.21742) |
 | 2026-06-14 | [Pool] 2601.21936 | [arXiv](https://arxiv.org/abs/2601.21936) |
@@ -241,12 +242,12 @@ crontab -e
 | 2026-03-28 | AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions | [arXiv](https://arxiv.org/abs/2602.06008) |
 | 2026-03-24 | DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching | [arXiv](https://arxiv.org/abs/2602.06039) |
 | 2026-03-24 | RuleSmith: Multi-Agent LLMs for Automated Game Balancing | [arXiv](https://arxiv.org/abs/2602.06232) |
-| 2026-03-24 | CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction | [arXiv](https://arxiv.org/abs/2602.06038) |
 
 ### Efficient LLM / Inference / Long Context
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-02 | [Pool] 2504.06319 | [arXiv](https://arxiv.org/abs/2504.06319) |
 | 2026-06-27 | [Pool] 2502.15734 | [arXiv](https://arxiv.org/abs/2502.15734) |
 | 2026-06-21 | [Pool] 2502.05431 | [arXiv](https://arxiv.org/abs/2502.05431) |
 | 2026-06-15 | [Pool] 2505.11594 | [arXiv](https://arxiv.org/abs/2505.11594) |
@@ -290,6 +291,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-02](./src/2026/07/2026-07-02.md)
 - [2026-07-01](./src/2026/07/2026-07-01.md)
 - [2026-06-30](./src/2026/06/2026-06-30.md)
 - [2026-06-29](./src/2026/06/2026-06-29.md)

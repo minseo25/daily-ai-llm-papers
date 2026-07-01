@@ -1,18 +1,4 @@
 {
-  "2605.27906": {
-    "title": "Reasoning Matters: Mitigate Hallucination in Multimodal Large Reasoning Models via Reasoning-Conditioned Preference Optimization",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-06-01"
-  },
-  "2605.30090": {
-    "title": "DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-06-01"
-  },
   "2605.30571": {
     "title": "Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode",
     "track": "ML Systems",

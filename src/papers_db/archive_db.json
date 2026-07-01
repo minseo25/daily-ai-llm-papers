@@ -578,5 +578,15 @@
     "title": "[Pool] 2504.21318",
     "track": "RL for LLMs / Reasoning",
     "date_briefed": "2026-07-01"
+  },
+  "2601.19793": {
+    "title": "[Pool] 2601.19793",
+    "track": "Agents",
+    "date_briefed": "2026-07-02"
+  },
+  "2504.06319": {
+    "title": "[Pool] 2504.06319",
+    "track": "Efficient LLM / Inference / Long Context",
+    "date_briefed": "2026-07-02"
   }
 }
