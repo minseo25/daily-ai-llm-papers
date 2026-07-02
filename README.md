@@ -247,6 +247,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-03 | [Pool] 2505.23416 | [arXiv](https://arxiv.org/abs/2505.23416) |
 | 2026-07-02 | [Pool] 2504.06319 | [arXiv](https://arxiv.org/abs/2504.06319) |
 | 2026-06-27 | [Pool] 2502.15734 | [arXiv](https://arxiv.org/abs/2502.15734) |
 | 2026-06-21 | [Pool] 2502.05431 | [arXiv](https://arxiv.org/abs/2502.05431) |
@@ -266,7 +267,6 @@ crontab -e
 | 2026-04-16 | [Pool] 2502.07864 | [arXiv](https://arxiv.org/abs/2502.07864) |
 | 2026-04-10 | [Pool] 2502.14837 | [arXiv](https://arxiv.org/abs/2502.14837) |
 | 2026-04-04 | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | [arXiv](https://arxiv.org/abs/2502.11089) |
-| 2026-03-29 | [Pool] 2501.12948 | [arXiv](https://arxiv.org/abs/2501.12948) |
 
 ### Diffusion Language Models
 
@@ -291,6 +291,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-03](./src/2026/07/2026-07-03.md)
 - [2026-07-02](./src/2026/07/2026-07-02.md)
 - [2026-07-01](./src/2026/07/2026-07-01.md)
 - [2026-06-30](./src/2026/06/2026-06-30.md)
