@@ -1,18 +1,4 @@
 {
-  "2606.01387": {
-    "title": "Fail-Closed Lowering of Resident KV Claims onto LLM Serving Runtimes",
-    "track": "ML Systems",
-    "org": "",
-    "score": 12.0,
-    "date": "2026-06-04"
-  },
-  "2606.01065": {
-    "title": "Leyline: KV Cache Directives for Agentic Inference",
-    "track": "ML Systems",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-06-04"
-  },
   "2606.04415": {
     "title": "FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location",
     "track": "ML Systems",
@@ -362,5 +348,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-07-04"
+  },
+  "2606.31519": {
+    "title": "RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-07-05"
+  },
+  "2607.01188": {
+    "title": "Optimal Resource Utilization for Autonomous Laboratory Orchestrators",
+    "track": "Agents",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-05"
   }
 }

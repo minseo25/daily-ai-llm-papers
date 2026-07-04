@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-06-27T08:00:23.071486",
+  "last_crawled": "2026-07-05T08:00:23.585493",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -6722,6 +6722,26 @@
     {
       "arxiv_id": "2606.10662",
       "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2606.05697",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2606.08878",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2606.00135",
+      "source_repo": "VoltAgent/awesome-ai-agent-papers"
+    },
+    {
+      "arxiv_id": "2606.21228",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2606.19135",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
     }
   ],
   "Efficient LLM / Inference / Long Context": [
@@ -10616,6 +10636,110 @@
     {
       "arxiv_id": "2604.07622",
       "source_repo": "xlite-dev/Awesome-LLM-Inference"
+    },
+    {
+      "arxiv_id": "2509.15206",
+      "source_repo": "HuangOwen/Awesome-LLM-Compression"
+    },
+    {
+      "arxiv_id": "2605.04062",
+      "source_repo": "HuangOwen/Awesome-LLM-Compression"
+    },
+    {
+      "arxiv_id": "2601.09694",
+      "source_repo": "HuangOwen/Awesome-LLM-Compression"
+    },
+    {
+      "arxiv_id": "2512.22671",
+      "source_repo": "HuangOwen/Awesome-LLM-Compression"
+    },
+    {
+      "arxiv_id": "2605.07019",
+      "source_repo": "HuangOwen/Awesome-LLM-Compression"
+    },
+    {
+      "arxiv_id": "2606.07098",
+      "source_repo": "HuangOwen/Awesome-LLM-Compression"
+    },
+    {
+      "arxiv_id": "2606.31519",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.31145",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.31986",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.31734",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.30389",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.27922",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.25658",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.24597",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.22877",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.23670",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.20002",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.19919",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.19927",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.18829",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.18388",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.18208",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.14571",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.13392",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.09079",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+    },
+    {
+      "arxiv_id": "2606.05859",
+      "source_repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
     }
   ],
   "Diffusion Language Models": [
