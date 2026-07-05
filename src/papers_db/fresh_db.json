@@ -362,5 +362,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-07-05"
+  },
+  "2607.02043": {
+    "title": "Towards Load-Aware Prefill Deflection for Disaggregated LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-06"
+  },
+  "2607.01299": {
+    "title": "HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-06"
   }
 }
