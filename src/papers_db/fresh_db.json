@@ -376,5 +376,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-07-06"
+  },
+  "2607.02460": {
+    "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-07"
+  },
+  "2607.02374": {
+    "title": "DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-07"
   }
 }
