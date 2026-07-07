@@ -222,6 +222,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-08 | [Pool] 2601.17311 | [arXiv](https://arxiv.org/abs/2601.17311) |
 | 2026-07-02 | [Pool] 2601.19793 | [arXiv](https://arxiv.org/abs/2601.19793) |
 | 2026-06-26 | [Pool] 2601.21469 | [arXiv](https://arxiv.org/abs/2601.21469) |
 | 2026-06-20 | [Pool] 2601.21742 | [arXiv](https://arxiv.org/abs/2601.21742) |
@@ -241,7 +242,6 @@ crontab -e
 | 2026-04-03 | Gender Dynamics and Homophily in a Social Network of LLM Agents | [arXiv](https://arxiv.org/abs/2602.02606) |
 | 2026-03-28 | AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions | [arXiv](https://arxiv.org/abs/2602.06008) |
 | 2026-03-24 | DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching | [arXiv](https://arxiv.org/abs/2602.06039) |
-| 2026-03-24 | RuleSmith: Multi-Agent LLMs for Automated Game Balancing | [arXiv](https://arxiv.org/abs/2602.06232) |
 
 ### Efficient LLM / Inference / Long Context
 
@@ -292,6 +292,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-08](./src/2026/07/2026-07-08.md)
 - [2026-07-07](./src/2026/07/2026-07-07.md)
 - [2026-07-06](./src/2026/07/2026-07-06.md)
 - [2026-07-05](./src/2026/07/2026-07-05.md)
