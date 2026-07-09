@@ -1,18 +1,4 @@
 {
-  "2606.04415": {
-    "title": "FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location",
-    "track": "ML Systems",
-    "org": "",
-    "score": 14.0,
-    "date": "2026-06-09"
-  },
-  "2606.06256": {
-    "title": "RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention",
-    "track": "ML Systems",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-06-09"
-  },
   "2606.06915": {
     "title": "ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning",
     "track": "RL for LLMs / Reasoning",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-07-09"
+  },
+  "2607.06963": {
+    "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
+    "track": "ML Systems",
+    "org": "",
+    "score": 20.0,
+    "date": "2026-07-10"
+  },
+  "2607.05682": {
+    "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+    "track": "Agents",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-10"
   }
 }
