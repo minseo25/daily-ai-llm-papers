@@ -1,18 +1,4 @@
 {
-  "2606.06915": {
-    "title": "ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning",
-    "track": "RL for LLMs / Reasoning",
-    "org": "",
-    "score": 12.0,
-    "date": "2026-06-10"
-  },
-  "2606.09525": {
-    "title": "Emergence of Context Characteristics Sensitivity in Large Language Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-06-10"
-  },
   "2606.06302": {
     "title": "Tangram: Unlocking Non-Uniform KV Cache for Efficient Multi-turn LLM Serving",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-07-10"
+  },
+  "2607.08057": {
+    "title": "Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-11"
+  },
+  "2607.05147": {
+    "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-11"
   }
 }
