@@ -1,18 +1,4 @@
 {
-  "2606.06302": {
-    "title": "Tangram: Unlocking Non-Uniform KV Cache for Efficient Multi-turn LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-06-11"
-  },
-  "2606.02964": {
-    "title": "Multi-Segment Attention: Enabling Efficient KV-Cache Management for Faster Large Language Model Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-06-11"
-  },
   "2606.11357": {
     "title": "TileFuse: A Fused Mixed-Precision Kernel Library for Efficient Quantized LLM Inference on AMD NPUs",
     "track": "Efficient LLM / Inference / Long Context",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-07-11"
+  },
+  "2607.08215": {
+    "title": "On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-12"
+  },
+  "2607.04181": {
+    "title": "CoCoScale: Leveraging Layer-wise Scaling to Unlock the Potential of Online LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-12"
   }
 }

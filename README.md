@@ -172,6 +172,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-12 | [Pool] 2501.03124 | [arXiv](https://arxiv.org/abs/2501.03124) |
 | 2026-07-06 | [Pool] 2502.11886 | [arXiv](https://arxiv.org/abs/2502.11886) |
 | 2026-06-30 | [Pool] 2412.19792 | [arXiv](https://arxiv.org/abs/2412.19792) |
 | 2026-06-24 | [Pool] 2502.04327 | [arXiv](https://arxiv.org/abs/2502.04327) |
@@ -191,7 +192,6 @@ crontab -e
 | 2026-04-19 | [Pool] 2409.18169 | [arXiv](https://arxiv.org/abs/2409.18169) |
 | 2026-04-13 | [Pool] 2501.09686 | [arXiv](https://arxiv.org/abs/2501.09686) |
 | 2026-04-07 | [Pool] 2502.15652 | [arXiv](https://arxiv.org/abs/2502.15652) |
-| 2026-04-01 | From System 1 to System 2: A Survey of Reasoning Large Language Models | [arXiv](https://arxiv.org/abs/2502.17419) |
 
 ### RL for LLMs / Reasoning
 
@@ -293,6 +293,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-12](./src/2026/07/2026-07-12.md)
 - [2026-07-11](./src/2026/07/2026-07-11.md)
 - [2026-07-10](./src/2026/07/2026-07-10.md)
 - [2026-07-09](./src/2026/07/2026-07-09.md)
