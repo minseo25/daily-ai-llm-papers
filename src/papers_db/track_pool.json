@@ -1,5 +1,5 @@
 {
-  "last_crawled": "2026-07-05T08:00:23.585493",
+  "last_crawled": "2026-07-13T08:00:26.423249",
   "ML Systems": [
     {
       "arxiv_id": "2406.04594",
@@ -6741,6 +6741,10 @@
     },
     {
       "arxiv_id": "2606.19135",
+      "source_repo": "kyegomez/awesome-multi-agent-papers"
+    },
+    {
+      "arxiv_id": "2607.02464",
       "source_repo": "kyegomez/awesome-multi-agent-papers"
     }
   ],
