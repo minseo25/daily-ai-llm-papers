@@ -648,5 +648,10 @@
     "title": "[Pool] 2601.17152",
     "track": "Agents",
     "date_briefed": "2026-07-14"
+  },
+  "2511.01815": {
+    "title": "[Pool] 2511.01815",
+    "track": "Efficient LLM / Inference / Long Context",
+    "date_briefed": "2026-07-15"
   }
 }

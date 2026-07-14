@@ -1,18 +1,4 @@
 {
-  "2606.12841": {
-    "title": "TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models",
-    "track": "Diffusion Language Models",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-06-14"
-  },
-  "2606.03770": {
-    "title": "E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-14"
-  },
   "2606.11562": {
     "title": "GraphInfer-Bench: Benchmarking LLM's Inference Capability on Graphs",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-07-14"
+  },
+  "2607.09957": {
+    "title": "Workload-Driven Optimization for On-Device Real-Time Subtitle Translation",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-07-15"
+  },
+  "2607.11434": {
+    "title": "Direct Image-to-Modern Vietnamese Translation of Han-Nom Manuscripts via Multimodal RLHF Preference Alignment",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-07-15"
   }
 }
