@@ -1,18 +1,4 @@
 {
-  "2606.11562": {
-    "title": "GraphInfer-Bench: Benchmarking LLM's Inference Capability on Graphs",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-15"
-  },
-  "2606.10829": {
-    "title": "Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-15"
-  },
   "2606.14445": {
     "title": "tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration",
     "track": "Agents",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 13.0,
     "date": "2026-07-15"
+  },
+  "2607.12121": {
+    "title": "FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-07-16"
+  },
+  "2607.11136": {
+    "title": "Xema: Efficient Diffusion Serving through Fine-Grained Memory Management and Auto-Configuration",
+    "track": "ML Systems",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-07-16"
   }
 }
