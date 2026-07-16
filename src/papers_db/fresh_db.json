@@ -1,18 +1,4 @@
 {
-  "2606.14445": {
-    "title": "tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration",
-    "track": "Agents",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-06-16"
-  },
-  "2606.14691": {
-    "title": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-06-16"
-  },
   "2606.16808": {
     "title": "Adaptive and Explicit safe: Triggering Latent Safety Awareness in Large Reasoning Models",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-07-16"
+  },
+  "2607.13430": {
+    "title": "Exploring Post-Training Alignment of Small Language Models for Biomedical Data-to-Text Generation: A Case Study of Medication Leaflet",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-07-17"
+  },
+  "2607.13712": {
+    "title": "Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-07-17"
   }
 }
