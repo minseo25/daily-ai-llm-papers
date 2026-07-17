@@ -1,18 +1,4 @@
 {
-  "2606.16808": {
-    "title": "Adaptive and Explicit safe: Triggering Latent Safety Awareness in Large Reasoning Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-06-17"
-  },
-  "2606.17006": {
-    "title": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-06-17"
-  },
   "2606.18142": {
     "title": "Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models",
     "track": "Agents",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-07-17"
+  },
+  "2607.10987": {
+    "title": "[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-18"
+  },
+  "2607.15095": {
+    "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-18"
   }
 }
