@@ -1,18 +1,4 @@
 {
-  "2606.18142": {
-    "title": "Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models",
-    "track": "Agents",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-06-18"
-  },
-  "2606.17182": {
-    "title": "Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-18"
-  },
   "2606.18741": {
     "title": "ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-07-18"
+  },
+  "2607.14682": {
+    "title": "Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-19"
+  },
+  "2607.15161": {
+    "title": "On-Policy Delta Distillation",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-19"
   }
 }
