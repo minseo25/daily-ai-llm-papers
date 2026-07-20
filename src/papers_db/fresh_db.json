@@ -1,18 +1,4 @@
 {
-  "2606.20537": {
-    "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 19.0,
-    "date": "2026-06-20"
-  },
-  "2606.20493": {
-    "title": "Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems",
-    "track": "Agents",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-06-20"
-  },
   "2606.20023": {
     "title": "When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-07-20"
+  },
+  "2607.15781": {
+    "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-21"
+  },
+  "2607.16074": {
+    "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-21"
   }
 }
