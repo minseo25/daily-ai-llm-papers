@@ -147,6 +147,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-23 | [Pool] 2602.06154 | [arXiv](https://arxiv.org/abs/2602.06154) |
 | 2026-07-17 | [Pool] 2507.05411 | [arXiv](https://arxiv.org/abs/2507.05411) |
 | 2026-07-11 | [Pool] 2601.17654 | [arXiv](https://arxiv.org/abs/2601.17654) |
 | 2026-07-05 | [Pool] 2601.05296 | [arXiv](https://arxiv.org/abs/2601.05296) |
@@ -166,7 +167,6 @@ crontab -e
 | 2026-04-12 | [Pool] 2502.19811 | [arXiv](https://arxiv.org/abs/2502.19811) |
 | 2026-04-11 | [Pool] 2412.19437 | [arXiv](https://arxiv.org/abs/2412.19437) |
 | 2026-04-06 | [Pool] 2411.14458 | [arXiv](https://arxiv.org/abs/2411.14458) |
-| 2026-03-31 | Hydraulis: Balancing Large Transformer Model Training via Co-designing Parallel Strategies and Data Assignment | [arXiv](https://arxiv.org/abs/2412.07894) |
 
 ### LLM Post-training
 
@@ -295,6 +295,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-23](./src/2026/07/2026-07-23.md)
 - [2026-07-22](./src/2026/07/2026-07-22.md)
 - [2026-07-21](./src/2026/07/2026-07-21.md)
 - [2026-07-20](./src/2026/07/2026-07-20.md)
