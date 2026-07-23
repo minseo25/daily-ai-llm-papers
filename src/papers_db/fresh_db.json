@@ -1,18 +1,4 @@
 {
-  "2606.18600": {
-    "title": "ShuntServe: Cost-Efficient LLM Serving on Heterogeneous Spot GPU Clusters",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-23"
-  },
-  "2606.16135": {
-    "title": "SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-23"
-  },
   "2606.22541": {
     "title": "ASAP: A Disaggregated and Asynchronous Inference System for MoE Prefill",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-07-23"
+  },
+  "2607.19967": {
+    "title": "When Shippers Become Algorithms: Candidate Exposure, Information Design, and the Concentration of LLM-Mediated Freight Markets",
+    "track": "Other",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-07-24"
+  },
+  "2607.18002": {
+    "title": "ExpertPlex: A High-Goodput Disaggregated Serving System for MoE LLMs with Adaptive Persistent Kernels",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-07-24"
   }
 }
