@@ -1,18 +1,4 @@
 {
-  "2606.22541": {
-    "title": "ASAP: A Disaggregated and Asynchronous Inference System for MoE Prefill",
-    "track": "ML Systems",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-06-24"
-  },
-  "2606.23521": {
-    "title": "Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference",
-    "track": "ML Systems",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-06-24"
-  },
   "2606.24331": {
     "title": "Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-07-24"
+  },
+  "2607.17715": {
+    "title": "C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-25"
+  },
+  "2607.20759": {
+    "title": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
+    "track": "Other",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-25"
   }
 }
