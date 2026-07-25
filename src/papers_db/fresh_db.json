@@ -1,18 +1,4 @@
 {
-  "2606.24331": {
-    "title": "Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 19.0,
-    "date": "2026-06-25"
-  },
-  "2606.24510": {
-    "title": "A specialized reasoning large language model for accelerating rare disease diagnosis: a randomized AI physician assistance trial",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-06-25"
-  },
   "2606.24506": {
     "title": "CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation",
     "track": "ML Systems",

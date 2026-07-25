@@ -222,6 +222,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-26 | [Pool] 2601.16863 | [arXiv](https://arxiv.org/abs/2601.16863) |
 | 2026-07-20 | [Pool] 2601.17133 | [arXiv](https://arxiv.org/abs/2601.17133) |
 | 2026-07-14 | [Pool] 2601.17152 | [arXiv](https://arxiv.org/abs/2601.17152) |
 | 2026-07-08 | [Pool] 2601.17311 | [arXiv](https://arxiv.org/abs/2601.17311) |
@@ -241,12 +242,12 @@ crontab -e
 | 2026-04-21 | [Pool] 2602.05407 | [arXiv](https://arxiv.org/abs/2602.05407) |
 | 2026-04-15 | [Pool] 2602.01797 | [arXiv](https://arxiv.org/abs/2602.01797) |
 | 2026-04-09 | [Pool] 2602.01848 | [arXiv](https://arxiv.org/abs/2602.01848) |
-| 2026-04-03 | Gender Dynamics and Homophily in a Social Network of LLM Agents | [arXiv](https://arxiv.org/abs/2602.02606) |
 
 ### Efficient LLM / Inference / Long Context
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-26 | [Pool] 2506.01206 | [arXiv](https://arxiv.org/abs/2506.01206) |
 | 2026-07-21 | [Pool] 2506.01215 | [arXiv](https://arxiv.org/abs/2506.01215) |
 | 2026-07-15 | [Pool] 2511.01815 | [arXiv](https://arxiv.org/abs/2511.01815) |
 | 2026-07-09 | [Pool] 2506.05345 | [arXiv](https://arxiv.org/abs/2506.05345) |
@@ -266,7 +267,6 @@ crontab -e
 | 2026-05-09 | [Pool] 2504.02263 | [arXiv](https://arxiv.org/abs/2504.02263) |
 | 2026-05-04 | [Pool] 2501.14784 | [arXiv](https://arxiv.org/abs/2501.14784) |
 | 2026-04-28 | [Pool] 2501.14743 | [arXiv](https://arxiv.org/abs/2501.14743) |
-| 2026-04-22 | [Pool] 2503.11132 | [arXiv](https://arxiv.org/abs/2503.11132) |
 
 ### Diffusion Language Models
 
@@ -295,6 +295,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-26](./src/2026/07/2026-07-26.md)
 - [2026-07-25](./src/2026/07/2026-07-25.md)
 - [2026-07-24](./src/2026/07/2026-07-24.md)
 - [2026-07-23](./src/2026/07/2026-07-23.md)
