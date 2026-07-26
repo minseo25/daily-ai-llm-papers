@@ -1,18 +1,4 @@
 {
-  "2606.24506": {
-    "title": "CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-26"
-  },
-  "2606.21633": {
-    "title": "HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-26"
-  },
   "2606.26607": {
     "title": "Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch",
     "track": "ML Systems",
@@ -404,5 +390,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-07-25"
+  },
+  "2607.19438": {
+    "title": "BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-27"
+  },
+  "2607.17299": {
+    "title": "WAR: Workload-Aware Rollouts for Synchronous Agentic Reinforcement Learning",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-27"
   }
 }
