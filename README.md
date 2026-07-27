@@ -272,6 +272,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-07-28 | [Pool] 2512.07173 | [arXiv](https://arxiv.org/abs/2512.07173) |
 | 2026-07-22 | [Pool] 2512.02892 | [arXiv](https://arxiv.org/abs/2512.02892) |
 | 2026-07-16 | [Pool] 2510.18165 | [arXiv](https://arxiv.org/abs/2510.18165) |
 | 2026-07-10 | [Pool] 2510.00294 | [arXiv](https://arxiv.org/abs/2510.00294) |
@@ -291,10 +292,10 @@ crontab -e
 | 2026-04-23 | [Pool] 2510.06303 | [arXiv](https://arxiv.org/abs/2510.06303) |
 | 2026-04-17 | [Pool] 2509.26328 | [arXiv](https://arxiv.org/abs/2509.26328) |
 | 2026-04-11 | [Pool] 2509.24007 | [arXiv](https://arxiv.org/abs/2509.24007) |
-| 2026-04-05 | Dream 7B: Diffusion Large Language Models | [arXiv](https://arxiv.org/abs/2508.15487) |
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-28](./src/2026/07/2026-07-28.md)
 - [2026-07-27](./src/2026/07/2026-07-27.md)
 - [2026-07-26](./src/2026/07/2026-07-26.md)
 - [2026-07-25](./src/2026/07/2026-07-25.md)

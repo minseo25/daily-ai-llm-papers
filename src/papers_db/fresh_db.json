@@ -1,18 +1,4 @@
 {
-  "2606.26607": {
-    "title": "Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch",
-    "track": "ML Systems",
-    "org": "",
-    "score": 12.0,
-    "date": "2026-06-27"
-  },
-  "2606.26997": {
-    "title": "RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-06-27"
-  },
   "2606.26493": {
     "title": "Nemotron-TwoTower: Diffusion Language Modeling with Pretrained Autoregressive Context",
     "track": "Diffusion Language Models",
@@ -404,5 +390,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-07-27"
+  },
+  "2607.21971": {
+    "title": "Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-28"
+  },
+  "2607.17652": {
+    "title": "FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-28"
   }
 }
