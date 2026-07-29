@@ -1,18 +1,4 @@
 {
-  "2606.16700": {
-    "title": "Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-06-29"
-  },
-  "2606.23370": {
-    "title": "FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-06-29"
-  },
   "2606.27771": {
     "title": "NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning",
     "track": "LLM Post-training",
@@ -404,5 +390,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-07-29"
+  },
+  "2607.25956": {
+    "title": "Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-30"
+  },
+  "2607.25891": {
+    "title": "Messier: A High-Resolution Corpus for Cross-Benchmark Agent Evaluation",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-07-30"
   }
 }
