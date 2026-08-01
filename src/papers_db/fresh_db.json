@@ -404,5 +404,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-08-01"
+  },
+  "2607.27529": {
+    "title": "Latent-Kernel Discrete Flow Maps for Few-Step Generation",
+    "track": "Diffusion Language Models",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-08-02"
+  },
+  "2607.26475": {
+    "title": "DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-08-02"
   }
 }
