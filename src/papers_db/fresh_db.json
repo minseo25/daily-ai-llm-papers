@@ -1,18 +1,4 @@
 {
-  "2607.02453": {
-    "title": "Adoption and Ecosystem Health: A Longitudinal Analysis of Open-Source Multi-Agent Frameworks",
-    "track": "Agents",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-07-04"
-  },
-  "2606.28425": {
-    "title": "Tool Use Enables Undetectable Steganography in Multi-Agent LLM Systems",
-    "track": "Agents",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-07-04"
-  },
   "2606.31519": {
     "title": "RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
     "track": "Efficient LLM / Inference / Long Context",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-08-03"
+  },
+  "2607.28848": {
+    "title": "DeltaServe: Host-Agnostic Co-Serving of Inference and Fine-Tuning for LLMs",
+    "track": "ML Systems",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-08-04"
+  },
+  "2607.28942": {
+    "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
+    "track": "Agents",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-08-04"
   }
 }
