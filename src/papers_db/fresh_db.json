@@ -1,18 +1,4 @@
 {
-  "2606.31519": {
-    "title": "RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
-    "track": "Efficient LLM / Inference / Long Context",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-07-05"
-  },
-  "2607.01188": {
-    "title": "Optimal Resource Utilization for Autonomous Laboratory Orchestrators",
-    "track": "Agents",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-07-05"
-  },
   "2607.02043": {
     "title": "Towards Load-Aware Prefill Deflection for Disaggregated LLM Serving",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-08-04"
+  },
+  "2608.01891": {
+    "title": "Energy-Efficient LLM Serving via Disaggregated Attention--FFN and Flexible Frequency Scaling",
+    "track": "ML Systems",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-08-05"
+  },
+  "2608.00423": {
+    "title": "Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-05"
   }
 }
