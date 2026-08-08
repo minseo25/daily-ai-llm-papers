@@ -1,18 +1,4 @@
 {
-  "2607.05876": {
-    "title": "Think Before You Grid-Search: Floor-First Triage for LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-07-09"
-  },
-  "2607.05775": {
-    "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
-    "track": "Agents",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-07-09"
-  },
   "2607.06963": {
     "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-08-08"
+  },
+  "2608.02901": {
+    "title": "AnchorKV: Anchor-Residual KV Cache Compression",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-08-09"
+  },
+  "2608.02947": {
+    "title": "ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-08-09"
   }
 }
