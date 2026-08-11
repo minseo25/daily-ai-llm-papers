@@ -1,18 +1,4 @@
 {
-  "2607.08215": {
-    "title": "On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-07-12"
-  },
-  "2607.04181": {
-    "title": "CoCoScale: Leveraging Layer-wise Scaling to Unlock the Potential of Online LLM Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-12"
-  },
   "2607.03948": {
     "title": "Online Linear Programming for Multi-Objective Routing in LLM Serving",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-08-11"
+  },
+  "2608.09225": {
+    "title": "Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference",
+    "track": "ML Systems",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-08-12"
+  },
+  "2608.09291": {
+    "title": "UnionSparse: An Index-Efficient Sparsity Framework for Low-Bit Sparse LLM Inference on Edge",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 12.0,
+    "date": "2026-08-12"
   }
 }
