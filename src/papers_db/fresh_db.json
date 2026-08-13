@@ -1,18 +1,4 @@
 {
-  "2607.09520": {
-    "title": "Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-07-14"
-  },
-  "2607.04244": {
-    "title": "Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B",
-    "track": "Efficient LLM / Inference / Long Context",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-14"
-  },
   "2607.09957": {
     "title": "Workload-Driven Optimization for On-Device Real-Time Subtitle Translation",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-08-13"
+  },
+  "2608.08097": {
+    "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
+    "track": "ML Systems",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-08-14"
+  },
+  "2608.12172": {
+    "title": "Rethinking Agent Security as a Networking Problem",
+    "track": "Agents",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-08-14"
   }
 }
