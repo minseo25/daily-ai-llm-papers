@@ -1,18 +1,4 @@
 {
-  "2607.09957": {
-    "title": "Workload-Driven Optimization for On-Device Real-Time Subtitle Translation",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 14.0,
-    "date": "2026-07-15"
-  },
-  "2607.11434": {
-    "title": "Direct Image-to-Modern Vietnamese Translation of Han-Nom Manuscripts via Multimodal RLHF Preference Alignment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-07-15"
-  },
   "2607.12121": {
     "title": "FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-08-14"
+  },
+  "2608.13040": {
+    "title": "Latent On-Policy Self-Distillation",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-15"
+  },
+  "2608.10362": {
+    "title": "MemSpec: Memory-Aware Runtime for Adaptive Draft Scheduling in Speculative Decoding on Edge Devices",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-15"
   }
 }
