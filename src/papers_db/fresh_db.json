@@ -1,18 +1,4 @@
 {
-  "2607.12121": {
-    "title": "FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving",
-    "track": "ML Systems",
-    "org": "",
-    "score": 13.0,
-    "date": "2026-07-16"
-  },
-  "2607.11136": {
-    "title": "Xema: Efficient Diffusion Serving through Fine-Grained Memory Management and Auto-Configuration",
-    "track": "ML Systems",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-07-16"
-  },
   "2607.13430": {
     "title": "Exploring Post-Training Alignment of Small Language Models for Biomedical Data-to-Text Generation: A Case Study of Medication Leaflet",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-08-15"
+  },
+  "2608.08684": {
+    "title": "RippleKV: Cross-Layer KV Cache Allocation via Perturbation Propagation",
+    "track": "Efficient LLM / Inference / Long Context",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-16"
+  },
+  "2608.08340": {
+    "title": "OpRAG: A Resource-Deterministic Runtime for GPU-Backed Multi-Stage RAG Workflows",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-16"
   }
 }
