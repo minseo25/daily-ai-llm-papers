@@ -1,18 +1,4 @@
 {
-  "2607.13430": {
-    "title": "Exploring Post-Training Alignment of Small Language Models for Biomedical Data-to-Text Generation: A Case Study of Medication Leaflet",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 12.0,
-    "date": "2026-07-17"
-  },
-  "2607.13712": {
-    "title": "Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-07-17"
-  },
   "2607.10987": {
     "title": "[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-08-16"
+  },
+  "2608.06529": {
+    "title": "Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models",
+    "track": "Diffusion Language Models",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-17"
+  },
+  "2608.10218": {
+    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+    "track": "Agents",
+    "org": "",
+    "score": 7.0,
+    "date": "2026-08-17"
   }
 }
