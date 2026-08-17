@@ -1,18 +1,4 @@
 {
-  "2607.10987": {
-    "title": "[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-07-18"
-  },
-  "2607.15095": {
-    "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-07-18"
-  },
   "2607.14682": {
     "title": "Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 7.0,
     "date": "2026-08-17"
+  },
+  "2608.14498": {
+    "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-08-18"
+  },
+  "2608.14385": {
+    "title": "DeaMoE: Efficient MoE Structure for Fast Small-Batch Decoding",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-08-18"
   }
 }
