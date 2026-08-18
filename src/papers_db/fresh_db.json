@@ -1,18 +1,4 @@
 {
-  "2607.14682": {
-    "title": "Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-07-19"
-  },
-  "2607.15161": {
-    "title": "On-Policy Delta Distillation",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-19"
-  },
   "2607.14895": {
     "title": "Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-08-18"
+  },
+  "2608.16477": {
+    "title": "Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-08-19"
+  },
+  "2608.16539": {
+    "title": "Listen, Reason, and Segment: Aligning LALMs with Editorial Judgment for Media Chapterization",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-08-19"
   }
 }

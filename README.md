@@ -222,6 +222,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-08-19 | [Pool] 2601.14351 | [arXiv](https://arxiv.org/abs/2601.14351) |
 | 2026-08-13 | [Pool] 2601.14230 | [arXiv](https://arxiv.org/abs/2601.14230) |
 | 2026-08-07 | [Pool] 2601.14652 | [arXiv](https://arxiv.org/abs/2601.14652) |
 | 2026-08-01 | [Pool] 2601.15077 | [arXiv](https://arxiv.org/abs/2601.15077) |
@@ -241,7 +242,6 @@ crontab -e
 | 2026-05-15 | [Pool] 2601.23228 | [arXiv](https://arxiv.org/abs/2601.23228) |
 | 2026-05-09 | [Pool] 2602.00755 | [arXiv](https://arxiv.org/abs/2602.00755) |
 | 2026-05-03 | [Pool] 2602.01011 | [arXiv](https://arxiv.org/abs/2602.01011) |
-| 2026-04-27 | [Pool] 2602.01465 | [arXiv](https://arxiv.org/abs/2602.01465) |
 
 ### Efficient LLM / Inference / Long Context
 
@@ -295,6 +295,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-08-19](./src/2026/08/2026-08-19.md)
 - [2026-08-18](./src/2026/08/2026-08-18.md)
 - [2026-08-17](./src/2026/08/2026-08-17.md)
 - [2026-08-16](./src/2026/08/2026-08-16.md)
