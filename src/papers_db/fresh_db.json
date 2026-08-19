@@ -1,18 +1,4 @@
 {
-  "2607.14895": {
-    "title": "Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-20"
-  },
-  "2607.14989": {
-    "title": "OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-20"
-  },
   "2607.15781": {
     "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
     "track": "LLM Post-training",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 10.0,
     "date": "2026-08-19"
+  },
+  "2608.15171": {
+    "title": "P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-20"
+  },
+  "2608.15118": {
+    "title": "Collective Communication for Distributed LLM Systems: Planning, Runtime Adaptation, and Computation Coordination",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-20"
   }
 }

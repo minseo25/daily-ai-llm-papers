@@ -247,6 +247,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-08-20 | [Pool] 2502.14752 | [arXiv](https://arxiv.org/abs/2502.14752) |
 | 2026-08-14 | [Pool] 2603.08083 | [arXiv](https://arxiv.org/abs/2603.08083) |
 | 2026-08-08 | [Pool] 2506.11120 | [arXiv](https://arxiv.org/abs/2506.11120) |
 | 2026-08-02 | [Pool] 2505.20698 | [arXiv](https://arxiv.org/abs/2505.20698) |
@@ -266,7 +267,6 @@ crontab -e
 | 2026-05-28 | [Pool] 2502.18137 | [arXiv](https://arxiv.org/abs/2502.18137) |
 | 2026-05-27 | [Pool] 2505.07004 | [arXiv](https://arxiv.org/abs/2505.07004) |
 | 2026-05-22 | [Pool] 2504.18415 | [arXiv](https://arxiv.org/abs/2504.18415) |
-| 2026-05-16 | [Pool] 2507.13833 | [arXiv](https://arxiv.org/abs/2507.13833) |
 
 ### Diffusion Language Models
 
@@ -295,6 +295,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-08-20](./src/2026/08/2026-08-20.md)
 - [2026-08-19](./src/2026/08/2026-08-19.md)
 - [2026-08-18](./src/2026/08/2026-08-18.md)
 - [2026-08-17](./src/2026/08/2026-08-17.md)
