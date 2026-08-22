@@ -1,18 +1,4 @@
 {
-  "2607.17181": {
-    "title": "Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs",
-    "track": "ML Systems",
-    "org": "",
-    "score": 11.0,
-    "date": "2026-07-23"
-  },
-  "2607.18171": {
-    "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-07-23"
-  },
   "2607.19967": {
     "title": "When Shippers Become Algorithms: Candidate Exposure, Information Design, and the Concentration of LLM-Mediated Freight Markets",
     "track": "Other",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-08-22"
+  },
+  "2608.19748": {
+    "title": "Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-23"
+  },
+  "2608.15592": {
+    "title": "When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-08-23"
   }
 }
