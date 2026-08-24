@@ -1,18 +1,4 @@
 {
-  "2607.17715": {
-    "title": "C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-25"
-  },
-  "2607.20759": {
-    "title": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
-    "track": "Other",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-25"
-  },
   "2607.19438": {
     "title": "BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
     "track": "ML Systems",
@@ -418,5 +404,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-08-24"
+  },
+  "2608.20631": {
+    "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
+    "track": "Agents",
+    "org": "",
+    "score": 11.0,
+    "date": "2026-08-25"
+  },
+  "2608.18884": {
+    "title": "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
+    "track": "LLM Post-training",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-08-25"
   }
 }
