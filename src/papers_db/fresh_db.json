@@ -418,5 +418,19 @@
     "org": "",
     "score": 8.0,
     "date": "2026-08-25"
+  },
+  "2608.19758": {
+    "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 14.0,
+    "date": "2026-08-26"
+  },
+  "2608.22643": {
+    "title": "NeuroPrefetcher: Storage-Aware Sparse LLM Inference via Delta Prefetching",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-26"
   }
 }
