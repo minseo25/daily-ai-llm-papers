@@ -1,18 +1,4 @@
 {
-  "2607.21971": {
-    "title": "Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-28"
-  },
-  "2607.17652": {
-    "title": "FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-28"
-  },
   "2607.23722": {
     "title": "E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios",
     "track": "Agents",
@@ -432,5 +418,19 @@
     "org": "",
     "score": 12.0,
     "date": "2026-08-27"
+  },
+  "2608.25523": {
+    "title": "TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-28"
+  },
+  "2608.23962": {
+    "title": "More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-08-28"
   }
 }
