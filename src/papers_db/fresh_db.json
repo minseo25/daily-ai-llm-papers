@@ -1,18 +1,4 @@
 {
-  "2607.25956": {
-    "title": "Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-30"
-  },
-  "2607.25891": {
-    "title": "Messier: A High-Resolution Corpus for Cross-Benchmark Agent Evaluation",
-    "track": "Agents",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-07-30"
-  },
   "2607.26491": {
     "title": "LLMET: Enabling Cross-Layer Evaluation of Emerging M3D Memories for Energy-Efficient LLM Serving",
     "track": "ML Systems",
@@ -432,5 +418,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-08-29"
+  },
+  "2608.26867": {
+    "title": "BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-08-30"
+  },
+  "2608.21719": {
+    "title": "PowerSlider: Exploiting Phase Asymmetry for LLM Serving under Demand Response",
+    "track": "ML Systems",
+    "org": "",
+    "score": 8.0,
+    "date": "2026-08-30"
   }
 }
