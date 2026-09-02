@@ -1,18 +1,4 @@
 {
-  "2607.27773": {
-    "title": "ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory",
-    "track": "Agents",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-08-03"
-  },
-  "2607.26566": {
-    "title": "ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-08-03"
-  },
   "2607.28848": {
     "title": "DeltaServe: Host-Agnostic Co-Serving of Inference and Fine-Tuning for LLMs",
     "track": "ML Systems",
@@ -432,5 +418,19 @@
     "org": "",
     "score": 11.0,
     "date": "2026-09-02"
+  },
+  "2609.01068": {
+    "title": "OUTLETS: Output-Length Prediction from Speculative Decoding Backbones",
+    "track": "ML Systems",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-09-03"
+  },
+  "2609.00455": {
+    "title": "Towards a Belief-Based World Model for LLM Agents",
+    "track": "Agents",
+    "org": "",
+    "score": 9.0,
+    "date": "2026-09-03"
   }
 }
