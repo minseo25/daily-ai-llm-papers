@@ -913,5 +913,10 @@
     "title": "[Pool] 2502.08922",
     "track": "LLM Post-training",
     "date_briefed": "2026-09-04"
+  },
+  "2507.17515": {
+    "title": "[Pool] 2507.17515",
+    "track": "RL for LLMs / Reasoning",
+    "date_briefed": "2026-09-05"
   }
 }
