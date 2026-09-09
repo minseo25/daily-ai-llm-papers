@@ -1,18 +1,4 @@
 {
-  "2608.05687": {
-    "title": "Answer First, Reason Later: Commitment Order in Diffusion LLMs",
-    "track": "Diffusion Language Models",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-08-10"
-  },
-  "2608.03741": {
-    "title": "When Does Disaggregation Pay? Simulating Prefill--Decode--Attention--FFN Specialization for Agentic LLM Inference",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-08-10"
-  },
   "2608.06557": {
     "title": "Cascade: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving",
     "track": "ML Systems",
@@ -432,5 +418,19 @@
     "org": "",
     "score": 9.0,
     "date": "2026-09-09"
+  },
+  "2609.07883": {
+    "title": "Deadline-Aware Adaptive Prefill Chunking for Efficient Large Language Model Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 13.0,
+    "date": "2026-09-10"
+  },
+  "2609.06853": {
+    "title": "Characterizing Contention-Induced Reliability Collapse in KV-Cache Timing Side Channels for Multi-Tenant LLM Serving",
+    "track": "ML Systems",
+    "org": "",
+    "score": 10.0,
+    "date": "2026-09-10"
   }
 }
