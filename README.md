@@ -147,6 +147,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-09-14 | [Pool] 2511.14617 | [arXiv](https://arxiv.org/abs/2511.14617) |
 | 2026-09-09 | [Pool] 2510.12633 | [arXiv](https://arxiv.org/abs/2510.12633) |
 | 2026-09-03 | [Pool] 2509.18521 | [arXiv](https://arxiv.org/abs/2509.18521) |
 | 2026-08-28 | [Pool] 2508.18588 | [arXiv](https://arxiv.org/abs/2508.18588) |
@@ -166,7 +167,6 @@ crontab -e
 | 2026-06-05 | [Pool] 2504.09307 | [arXiv](https://arxiv.org/abs/2504.09307) |
 | 2026-05-30 | [Pool] 2504.14519 | [arXiv](https://arxiv.org/abs/2504.14519) |
 | 2026-05-24 | [Pool] 2411.05288 | [arXiv](https://arxiv.org/abs/2411.05288) |
-| 2026-05-18 | [Pool] 2412.05496 | [arXiv](https://arxiv.org/abs/2412.05496) |
 
 ### LLM Post-training
 
@@ -272,6 +272,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-09-14 | [Pool] 2509.19962 | [arXiv](https://arxiv.org/abs/2509.19962) |
 | 2026-09-13 | [Pool] 2509.26488 | [arXiv](https://arxiv.org/abs/2509.26488) |
 | 2026-09-08 | [Pool] 2603.22248 | [arXiv](https://arxiv.org/abs/2603.22248) |
 | 2026-09-02 | [Pool] 2603.15340 | [arXiv](https://arxiv.org/abs/2603.15340) |
@@ -291,10 +292,10 @@ crontab -e
 | 2026-06-10 | [Pool] 2506.10848 | [arXiv](https://arxiv.org/abs/2506.10848) |
 | 2026-06-04 | [Pool] 2603.15803 | [arXiv](https://arxiv.org/abs/2603.15803) |
 | 2026-06-03 | [Pool] 2602.15014 | [arXiv](https://arxiv.org/abs/2602.15014) |
-| 2026-05-29 | [Pool] 2510.22852 | [arXiv](https://arxiv.org/abs/2510.22852) |
 
 ## 📚 브리핑 아카이브
 
+- [2026-09-14](./src/2026/09/2026-09-14.md)
 - [2026-09-13](./src/2026/09/2026-09-13.md)
 - [2026-09-12](./src/2026/09/2026-09-12.md)
 - [2026-09-11](./src/2026/09/2026-09-11.md)
