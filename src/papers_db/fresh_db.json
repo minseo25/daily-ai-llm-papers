@@ -1,18 +1,4 @@
 {
-  "2608.13040": {
-    "title": "Latent On-Policy Self-Distillation",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-08-15"
-  },
-  "2608.10362": {
-    "title": "MemSpec: Memory-Aware Runtime for Adaptive Draft Scheduling in Speculative Decoding on Edge Devices",
-    "track": "ML Systems",
-    "org": "",
-    "score": 9.0,
-    "date": "2026-08-15"
-  },
   "2608.08684": {
     "title": "RippleKV: Cross-Layer KV Cache Allocation via Perturbation Propagation",
     "track": "Efficient LLM / Inference / Long Context",
