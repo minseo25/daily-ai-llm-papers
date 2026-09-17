@@ -1,18 +1,4 @@
 {
-  "2608.14498": {
-    "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-08-18"
-  },
-  "2608.14385": {
-    "title": "DeaMoE: Efficient MoE Structure for Fast Small-Batch Decoding",
-    "track": "ML Systems",
-    "org": "",
-    "score": 8.0,
-    "date": "2026-08-18"
-  },
   "2608.16477": {
     "title": "Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN",
     "track": "ML Systems",

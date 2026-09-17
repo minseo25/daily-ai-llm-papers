@@ -222,6 +222,7 @@ crontab -e
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-09-18 | [Pool] 2601.10120 | [arXiv](https://arxiv.org/abs/2601.10120) |
 | 2026-09-17 | [Pool] 2601.10560 | [arXiv](https://arxiv.org/abs/2601.10560) |
 | 2026-09-12 | [Pool] 2601.11147 | [arXiv](https://arxiv.org/abs/2601.11147) |
 | 2026-09-06 | [Pool] 2601.11913 | [arXiv](https://arxiv.org/abs/2601.11913) |
@@ -241,12 +242,12 @@ crontab -e
 | 2026-06-14 | [Pool] 2601.21936 | [arXiv](https://arxiv.org/abs/2601.21936) |
 | 2026-06-08 | [Pool] 2601.21972 | [arXiv](https://arxiv.org/abs/2601.21972) |
 | 2026-06-07 | [Pool] 2601.22209 | [arXiv](https://arxiv.org/abs/2601.22209) |
-| 2026-06-02 | [Pool] 2601.22623 | [arXiv](https://arxiv.org/abs/2601.22623) |
 
 ### Efficient LLM / Inference / Long Context
 
 | 날짜 | 제목 | 링크 |
 |------|------|------|
+| 2026-09-18 | [Pool] 2505.00019 | [arXiv](https://arxiv.org/abs/2505.00019) |
 | 2026-09-13 | [Pool] 2504.14772 | [arXiv](https://arxiv.org/abs/2504.14772) |
 | 2026-09-07 | [Pool] 2504.00002 | [arXiv](https://arxiv.org/abs/2504.00002) |
 | 2026-09-01 | [Pool] 2503.11816 | [arXiv](https://arxiv.org/abs/2503.11816) |
@@ -266,7 +267,6 @@ crontab -e
 | 2026-06-21 | [Pool] 2502.05431 | [arXiv](https://arxiv.org/abs/2502.05431) |
 | 2026-06-15 | [Pool] 2505.11594 | [arXiv](https://arxiv.org/abs/2505.11594) |
 | 2026-06-09 | [Pool] 2503.05840 | [arXiv](https://arxiv.org/abs/2503.05840) |
-| 2026-06-08 | [Pool] 2504.17768 | [arXiv](https://arxiv.org/abs/2504.17768) |
 
 ### Diffusion Language Models
 
@@ -295,6 +295,7 @@ crontab -e
 
 ## 📚 브리핑 아카이브
 
+- [2026-09-18](./src/2026/09/2026-09-18.md)
 - [2026-09-17](./src/2026/09/2026-09-17.md)
 - [2026-09-16](./src/2026/09/2026-09-16.md)
 - [2026-09-15](./src/2026/09/2026-09-15.md)
