@@ -1,18 +1,4 @@
 {
-  "2608.16477": {
-    "title": "Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN",
-    "track": "ML Systems",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-08-19"
-  },
-  "2608.16539": {
-    "title": "Listen, Reason, and Segment: Aligning LALMs with Editorial Judgment for Media Chapterization",
-    "track": "LLM Post-training",
-    "org": "",
-    "score": 10.0,
-    "date": "2026-08-19"
-  },
   "2608.15171": {
     "title": "P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving",
     "track": "ML Systems",
